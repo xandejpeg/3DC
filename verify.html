@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Verificação — abrir um .glb em cena limpa</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        background: #101216;
+        color: #e6e8ec;
+        font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+      }
+      #bar {
+        position: fixed;
+        inset: 0 0 auto 0;
+        padding: 10px 14px;
+        background: rgba(16, 18, 22, 0.9);
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        font-size: 13px;
+        z-index: 2;
+      }
+      #log {
+        position: fixed;
+        left: 14px;
+        bottom: 14px;
+        max-width: 46ch;
+        font-size: 12px;
+        line-height: 1.5;
+        white-space: pre-wrap;
+        color: #98a0ae;
+        z-index: 2;
+      }
+      canvas {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="bar">
+      <strong>Cena limpa</strong>
+      <input id="file" type="file" accept=".glb" />
+      <span>Nenhuma peça, biblioteca ou IndexedDB é usada aqui.</span>
+    </div>
+    <pre id="log">Escolha um .glb exportado pelo montador.</pre>
+    <script type="module">
+      import * as THREE from 'three';
+      import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
+      import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
+      import { RoomEnvironment } from 'three/examples/jsm/environments/RoomEnvironment.js';
+
+      const log = document.getElementById('log');
+      const renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      renderer.outputColorSpace = THREE.SRGBColorSpace;
+      document.body.appendChild(renderer.domElement);
+
+      const scene = new THREE.Scene();
+      scene.background = new THREE.Color(0x101216);
+      const pmrem = new THREE.PMREMGenerator(renderer);
+      scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+
+      const camera = new THREE.PerspectiveCamera(35, window.innerWidth / window.innerHeight, 0.01, 100);
+      camera.position.set(0.6, 0.8, 1.6);
+      const controls = new OrbitControls(camera, renderer.domElement);
+      controls.enableDamping = true;
+      controls.target.set(0, 0.55, 0);
+
+      window.addEventListener('resize', () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+      });
+
+      renderer.setAnimationLoop(() => {
+        controls.update();
+        renderer.render(scene, camera);
+      });
+
+      let current = null;
+
+      async function open(buffer, label) {
+        const loader = new GLTFLoader();
+        const gltf = await loader.parseAsync(buffer, '');
+        if (current) scene.remove(current);
+        current = gltf.scene;
+        scene.add(current);
+
+        let meshes = 0;
+        let triangles = 0;
+        let textures = 0;
+        const materials = new Set();
+        current.traverse((o) => {
+          if (!o.isMesh) return;
+          meshes += 1;
+          const index = o.geometry.index;
+          triangles += (index ? index.count : o.geometry.attributes.position.count) / 3;
+          for (const m of Array.isArray(o.material) ? o.material : [o.material]) {
+            materials.add(m.uuid);
+            for (const value of Object.values(m)) {
+              if (value && value.isTexture) textures += 1;
+            }
+          }
+        });
+
+        const box = new THREE.Box3().setFromObject(current);
+        const size = box.getSize(new THREE.Vector3());
+        const center = box.getCenter(new THREE.Vector3());
+        controls.target.copy(center);
+        const dist = (Math.max(size.x, size.y, size.z) / (2 * Math.tan((camera.fov * Math.PI) / 360))) * 1.6;
+        camera.position.copy(center).add(new THREE.Vector3(0.35, 0.18, 1).normalize().multiplyScalar(dist));
+
+        log.textContent =
+          `${label}\n` +
+          `malhas: ${meshes} · triângulos: ${triangles} · materiais: ${materials.size} · texturas: ${textures}\n` +
+          `animações no arquivo: ${gltf.animations.length}\n` +
+          `caixa: ${size.x.toFixed(3)} × ${size.y.toFixed(3)} × ${size.z.toFixed(3)} m\n` +
+          `centro: ${center.x.toFixed(3)}, ${center.y.toFixed(3)}, ${center.z.toFixed(3)}\n` +
+          `filhos na raiz: ${current.children.map((c) => c.name).join(', ')}`;
+        window.__verify = { meshes, triangles, materials: materials.size, textures, animations: gltf.animations.length };
+      }
+
+      document.getElementById('file').addEventListener('change', async (event) => {
+        const file = event.target.files?.[0];
+        if (!file) return;
+        log.textContent = 'Lendo…';
+        try {
+          await open(await file.arrayBuffer(), file.name);
+        } catch (error) {
+          log.textContent = `Falhou: ${error instanceof Error ? error.message : String(error)}`;
+        }
+      });
+
+      // Permite abrir por URL: verify.html?src=/artifacts/arquivo.glb
+      const src = new URLSearchParams(location.search).get('src');
+      if (src) {
+        fetch(src)
+          .then((r) => (r.ok ? r.arrayBuffer() : Promise.reject(new Error(`HTTP ${r.status}`))))
+          .then((buffer) => open(buffer, src))
+          .catch((error) => {
+            log.textContent = `Falhou: ${error.message}`;
+          });
+      }
+    </script>
+  </body>
+</html>
