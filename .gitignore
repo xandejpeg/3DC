@@ -6,6 +6,7 @@ artifacts/*
 !artifacts/piloto-feminino-01/
 !artifacts/conjunto-feminino-v1/
 !artifacts/conjunto-feminino-v2/
+!artifacts/cabelos-femininos-v1/
 !artifacts/personagem-fixtures.glb
 *.blend[0-9]*
 *.log

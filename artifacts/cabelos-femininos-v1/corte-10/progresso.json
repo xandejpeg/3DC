@@ -1,0 +1,57 @@
+{
+  "cut": 10,
+  "label": "Ondulado lateral raspado",
+  "references": [
+    "R061",
+    "R004",
+    "R008"
+  ],
+  "parameters": {
+    "label": "Ondulado lateral raspado",
+    "end": 0.129,
+    "front": 0.269,
+    "volume": 0.002,
+    "part": "side",
+    "refs": [
+      "R061",
+      "R004",
+      "R008"
+    ]
+  },
+  "status": "validated",
+  "vertices": 17154,
+  "polygons": 17056,
+  "editable_groups": 33,
+  "clearance_adjusted_vertices": 7167,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "roundtrip_vertex_color_max_error": 0.0031135082244873047,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

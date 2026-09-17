@@ -1,0 +1,645 @@
+{
+  "product": "3DC Lab v1",
+  "cuts": [
+    {
+      "cut": 2,
+      "label": "Longo em camadas com franja",
+      "references": [
+        "R053",
+        "R001",
+        "R005"
+      ],
+      "parameters": {
+        "label": "Longo em camadas com franja",
+        "end": 0.017,
+        "front": 0.252,
+        "volume": 0.008,
+        "part": "crown",
+        "refs": [
+          "R053",
+          "R001",
+          "R005"
+        ]
+      },
+      "status": "validated",
+      "vertices": 21458,
+      "polygons": 21156,
+      "editable_groups": 67,
+      "clearance_adjusted_vertices": 20,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "8b68499b150c4cf9a4550cf24217fa188e19720adaf71ea5610964389c1bb789",
+      "bytes": 979744
+    },
+    {
+      "cut": 3,
+      "label": "Rabo lateral baixo com franja",
+      "references": [
+        "R054",
+        "R001",
+        "R005"
+      ],
+      "parameters": {
+        "label": "Rabo lateral baixo com franja",
+        "end": 0.147,
+        "front": 0.253,
+        "volume": 0.002,
+        "part": "swept",
+        "refs": [
+          "R054",
+          "R001",
+          "R005"
+        ]
+      },
+      "status": "validated",
+      "vertices": 17594,
+      "polygons": 17340,
+      "editable_groups": 59,
+      "clearance_adjusted_vertices": 5,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "dbb4709fcd5dc65afdb87cfddca4a856c5315bf5064c381cd94dc9f1170f6e97",
+      "bytes": 787108
+    },
+    {
+      "cut": 4,
+      "label": "Bob com franja reta",
+      "references": [
+        "R055",
+        "R002",
+        "R006"
+      ],
+      "parameters": {
+        "label": "Bob com franja reta",
+        "end": 0.085,
+        "front": 0.252,
+        "volume": 0.01,
+        "part": "crown",
+        "refs": [
+          "R055",
+          "R002",
+          "R006"
+        ]
+      },
+      "status": "validated",
+      "vertices": 16658,
+      "polygons": 16536,
+      "editable_groups": 37,
+      "clearance_adjusted_vertices": 25,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "d4ab31f0c2938aa22f856ba4d49bad21c16b3aef3b5f215dc7efdd2794ab5837",
+      "bytes": 743336
+    },
+    {
+      "cut": 5,
+      "label": "Dois rabos baixos",
+      "references": [
+        "R056",
+        "R002",
+        "R006"
+      ],
+      "parameters": {
+        "label": "Dois rabos baixos",
+        "end": 0.153,
+        "front": 0.268,
+        "volume": 0.002,
+        "part": "center",
+        "refs": [
+          "R056",
+          "R002",
+          "R006"
+        ]
+      },
+      "status": "validated",
+      "vertices": 21506,
+      "polygons": 21180,
+      "editable_groups": 71,
+      "clearance_adjusted_vertices": 545,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "8d46602ac58cce2b36105cde7f04de2ac64398780796d0479c0aaa14da729eaf",
+      "bytes": 976760
+    },
+    {
+      "cut": 6,
+      "label": "Médio repartido ao centro",
+      "references": [
+        "R057",
+        "R002",
+        "R006"
+      ],
+      "parameters": {
+        "label": "Médio repartido ao centro",
+        "end": 0.034,
+        "front": 0.269,
+        "volume": 0.006,
+        "part": "center",
+        "refs": [
+          "R057",
+          "R002",
+          "R006"
+        ]
+      },
+      "status": "validated",
+      "vertices": 18770,
+      "polygons": 18630,
+      "editable_groups": 40,
+      "clearance_adjusted_vertices": 226,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "79b1874e01f169337c1b92dee54cdd79a960d732d8df0a9fefc0de3012778273",
+      "bytes": 848344
+    },
+    {
+      "cut": 7,
+      "label": "Cacheado curto",
+      "references": [
+        "R058",
+        "R003",
+        "R007"
+      ],
+      "parameters": {
+        "label": "Cacheado curto",
+        "end": 0.135,
+        "front": 0.249,
+        "volume": 0.012,
+        "part": "curls",
+        "refs": [
+          "R058",
+          "R003",
+          "R007"
+        ]
+      },
+      "status": "validated",
+      "vertices": 62411,
+      "polygons": 63594,
+      "editable_groups": 364,
+      "clearance_adjusted_vertices": 330,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "be1030359d5a550c17086ea0fb3edc3f864dfbbfcdaa47a494e3edfeefcb9f0e",
+      "bytes": 2920820
+    },
+    {
+      "cut": 8,
+      "label": "Cachos em espiral",
+      "references": [
+        "R059",
+        "R003",
+        "R007"
+      ],
+      "parameters": {
+        "label": "Cachos em espiral",
+        "end": 0.025,
+        "front": 0.272,
+        "volume": 0.011,
+        "part": "center",
+        "refs": [
+          "R059",
+          "R003",
+          "R007"
+        ]
+      },
+      "status": "validated",
+      "vertices": 18098,
+      "polygons": 17970,
+      "editable_groups": 38,
+      "clearance_adjusted_vertices": 274,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "6b706b4e7fb9a4a04298bf27b012b328b6fe863ab9c990b67d52e2d50413ab6e",
+      "bytes": 814980
+    },
+    {
+      "cut": 9,
+      "label": "Afro volumoso",
+      "references": [
+        "R060",
+        "R003",
+        "R007"
+      ],
+      "parameters": {
+        "label": "Afro volumoso",
+        "end": 0.067,
+        "front": 0.248,
+        "volume": 0.044,
+        "part": "curls",
+        "refs": [
+          "R060",
+          "R003",
+          "R007"
+        ]
+      },
+      "status": "validated",
+      "vertices": 72331,
+      "polygons": 73706,
+      "editable_groups": 428,
+      "clearance_adjusted_vertices": 0,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "06adee99fe73c715a46acdada9568474d12b2dfadb08c7db06cb979c9197227a",
+      "bytes": 3396024
+    },
+    {
+      "cut": 10,
+      "label": "Ondulado lateral raspado",
+      "references": [
+        "R061",
+        "R004",
+        "R008"
+      ],
+      "parameters": {
+        "label": "Ondulado lateral raspado",
+        "end": 0.129,
+        "front": 0.269,
+        "volume": 0.002,
+        "part": "side",
+        "refs": [
+          "R061",
+          "R004",
+          "R008"
+        ]
+      },
+      "status": "validated",
+      "vertices": 17154,
+      "polygons": 17056,
+      "editable_groups": 33,
+      "clearance_adjusted_vertices": 7167,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "roundtrip_vertex_color_max_error": 0.0031135082244873047,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "5b6f2ae73108e25da5793c1ec8747d4c3955c76d052c5bc9f340006686f93f25",
+      "bytes": 1060952
+    },
+    {
+      "cut": 11,
+      "label": "Curto com desenhos raspados",
+      "references": [
+        "R062",
+        "R004",
+        "R008"
+      ],
+      "parameters": {
+        "label": "Curto com desenhos raspados",
+        "end": 0.145,
+        "front": 0.247,
+        "volume": 0.001,
+        "part": "crop",
+        "refs": [
+          "R062",
+          "R004",
+          "R008"
+        ]
+      },
+      "status": "validated",
+      "vertices": 82777,
+      "polygons": 84266,
+      "editable_groups": 496,
+      "clearance_adjusted_vertices": 2813,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "roundtrip_vertex_color_max_error": 0.0031406283378601074,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "f9a310e0c9d738b85fff4908b120478d5353f59b09ff96a8e966cfecfe2054bc",
+      "bytes": 5348064
+    },
+    {
+      "cut": 12,
+      "label": "Longo ondulado ao centro",
+      "references": [
+        "R063",
+        "R004",
+        "R008"
+      ],
+      "parameters": {
+        "label": "Longo ondulado ao centro",
+        "end": 0.004,
+        "front": 0.271,
+        "volume": 0.013,
+        "part": "center",
+        "refs": [
+          "R063",
+          "R004",
+          "R008"
+        ]
+      },
+      "status": "validated",
+      "vertices": 18098,
+      "polygons": 17970,
+      "editable_groups": 38,
+      "clearance_adjusted_vertices": 266,
+      "source_geometry_unchanged": true,
+      "roundtrip_geometry_equal": true,
+      "roundtrip_materials_equal": true,
+      "intersections": {
+        "base-f-01": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-02": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-03": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-04": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        },
+        "base-f-05": {
+          "base": 0,
+          "fixed": 0,
+          "eyes_nose": 0
+        }
+      },
+      "sha256": "6edcc29e692615a012a58826ffaddd3642d5426e49c736a795b514d17d8e9132",
+      "bytes": 814984
+    }
+  ]
+}

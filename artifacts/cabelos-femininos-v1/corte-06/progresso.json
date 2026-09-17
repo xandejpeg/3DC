@@ -1,0 +1,56 @@
+{
+  "cut": 6,
+  "label": "Médio repartido ao centro",
+  "references": [
+    "R057",
+    "R002",
+    "R006"
+  ],
+  "parameters": {
+    "label": "Médio repartido ao centro",
+    "end": 0.034,
+    "front": 0.269,
+    "volume": 0.006,
+    "part": "center",
+    "refs": [
+      "R057",
+      "R002",
+      "R006"
+    ]
+  },
+  "status": "validated",
+  "vertices": 18770,
+  "polygons": 18630,
+  "editable_groups": 40,
+  "clearance_adjusted_vertices": 226,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

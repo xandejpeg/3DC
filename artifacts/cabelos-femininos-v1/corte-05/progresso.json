@@ -1,0 +1,56 @@
+{
+  "cut": 5,
+  "label": "Dois rabos baixos",
+  "references": [
+    "R056",
+    "R002",
+    "R006"
+  ],
+  "parameters": {
+    "label": "Dois rabos baixos",
+    "end": 0.153,
+    "front": 0.268,
+    "volume": 0.002,
+    "part": "center",
+    "refs": [
+      "R056",
+      "R002",
+      "R006"
+    ]
+  },
+  "status": "validated",
+  "vertices": 21506,
+  "polygons": 21180,
+  "editable_groups": 71,
+  "clearance_adjusted_vertices": 545,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

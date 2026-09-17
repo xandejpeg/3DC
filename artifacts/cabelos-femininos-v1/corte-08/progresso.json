@@ -1,0 +1,56 @@
+{
+  "cut": 8,
+  "label": "Cachos em espiral",
+  "references": [
+    "R059",
+    "R003",
+    "R007"
+  ],
+  "parameters": {
+    "label": "Cachos em espiral",
+    "end": 0.025,
+    "front": 0.272,
+    "volume": 0.011,
+    "part": "center",
+    "refs": [
+      "R059",
+      "R003",
+      "R007"
+    ]
+  },
+  "status": "validated",
+  "vertices": 18098,
+  "polygons": 17970,
+  "editable_groups": 38,
+  "clearance_adjusted_vertices": 274,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

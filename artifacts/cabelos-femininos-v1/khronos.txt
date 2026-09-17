@@ -1,0 +1,126 @@
+=== corte-feminino-02.glb (979744 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 4 · triângulos: 42648 · vértices: 29965 · materiais: 4
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 975048 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-03.glb (787108 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 5 · triângulos: 34952 · vértices: 23829 · materiais: 5
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 781608 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-04.glb (743336 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 4 · triângulos: 33168 · vértices: 22485 · materiais: 4
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 738648 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-05.glb (976760 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 5 · triângulos: 42728 · vértices: 29787 · materiais: 5
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 971256 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-06.glb (848344 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 4 · triângulos: 37380 · vértices: 25807 · materiais: 4
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 843648 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-07.glb (2920820 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 4 · triângulos: 121914 · vértices: 91026 · materiais: 4
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 2916108 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-08.glb (814980 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 4 · triângulos: 36044 · vértices: 24751 · materiais: 4
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 810288 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-09.glb (3396024 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 4 · triângulos: 141242 · vértices: 105994 · materiais: 4
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 3391308 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-10.glb (1060952 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 5 · triângulos: 34176 · vértices: 23604 · materiais: 5
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 1054800 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-11.glb (5348064 bytes) ===
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+versão glTF 2.0 · desenhos: 6 · triângulos: 161630 · vértices: 121420 · materiais: 6
+recursos dentro do arquivo: 1; externos: 0
+  /buffers/0 · glb · application/gltf-buffer · 5340900 bytes
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0
+
+=== corte-feminino-12.glb (814984 bytes) ===
+
+validador 2.0.0-dev.3.10 · gerador: Khronos glTF Blender I/O v5.2.40
+
+versão glTF 2.0 · desenhos: 4 · triângulos: 36044 · vértices: 24751 · materiais: 4
+
+recursos dentro do arquivo: 1; externos: 0
+
+  /buffers/0 · glb · application/gltf-buffer · 810288 bytes
+
+erros: 0 · avisos: 0 · infos: 0 · dicas: 0

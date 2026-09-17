@@ -7,6 +7,7 @@ Destino: projeto do jogo **Real Car Lifestyle**. Este conjunto serve ao estudo e
 | Uso | Arquivos |
 | --- | --- |
 | Fonte de modelagem atual | [Cena Blender da revisão 2](../artifacts/conjunto-feminino-v2/conjunto-feminino-v2.blend) |
+| Fontes dos cortes 2–12 | [Uma cena e um GLB por corte](../artifacts/cabelos-femininos-v1/README.md) |
 | Biblioteca modular do seletor | [public/models/rcl-feminino-v2](../public/models/rcl-feminino-v2/) |
 | IDs, slots e arquivos | [manifest.json](../public/models/rcl-feminino-v2/manifest.json) |
 | Exemplos de montagem do Blender | [montagens/cabeca-feminina-01…05.glb](../artifacts/conjunto-feminino-v2/montagens/) |
@@ -19,12 +20,14 @@ Os nomes históricos `base-N-corte-1.glb` em `exportacoes-app/` também contêm 
 
 - Unidades de trabalho em metros. No Blender: Z para cima, frente em −Y. A exportação converte para glTF com Y para cima e frente em +Z. Conferir a conversão aplicada pelo importador da engine; não reaplicar uma correção já feita por ele.
 - Usar uma raiz comum para montar os módulos. Não centralizar, ajustar escala ou alinhar pelo centro da caixa de cada peça individualmente: as posições já carregam o referencial compartilhado.
-- Cinco bases, um Corte 1, um Olho 1 em par e um Nariz 1. Sobrancelhas, boca e orelhas estão dentro do GLB da base e mudam com ela.
+- Cinco bases, Cortes 1–12, um Olho 1 em par e um Nariz 1. Sobrancelhas, boca e orelhas estão dentro do GLB da base e mudam com ela. São 60 combinações estáticas verificadas no montador.
 - GLB montado pode conter diversos nós/malhas e materiais. Exportar tudo num arquivo não solda as superfícies nem cria um rig.
 - IDs `module_id`, `base_id`, revisão e dados do catálogo ajudam a rastrear a origem. Importadores podem tratar metadados extras de formas diferentes; manter o manifesto junto dos arquivos na integração.
 - O catálogo atual foi testado como conjunto. Um GLB externo aceito pelo seletor não ganha compatibilidade geométrica automaticamente.
 
 Materiais, geometrias e recursos usados pelo conjunto estão dentro dos GLBs. Não há texturas externas obrigatórias nesses assets. A imagem de referência, seu fundo e sua grade não viraram texturas do personagem.
+
+Os cortes 10/11 usam `COLOR_0` para o degradê do raspado: preservar cores de vértices e a multiplicação pelo material no importador. Os cabelos 7/9/11 são os mais densos (aproximadamente 122/141/162 mil triângulos); precisam de orçamento e LOD antes de serem multiplicados em uma população do jogo. A prioridade desta etapa foi a forma e o encaixe; ela não certifica desempenho. O [registro dos cabelos](registros/2026-09-17-cabelos-femininos.md) detalha os limites visuais.
 
 ## O que ainda precisa ser decidido/testado no jogo
 

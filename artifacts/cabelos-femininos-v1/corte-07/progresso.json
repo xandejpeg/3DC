@@ -1,0 +1,56 @@
+{
+  "cut": 7,
+  "label": "Cacheado curto",
+  "references": [
+    "R058",
+    "R003",
+    "R007"
+  ],
+  "parameters": {
+    "label": "Cacheado curto",
+    "end": 0.135,
+    "front": 0.249,
+    "volume": 0.012,
+    "part": "curls",
+    "refs": [
+      "R058",
+      "R003",
+      "R007"
+    ]
+  },
+  "status": "validated",
+  "vertices": 62411,
+  "polygons": 63594,
+  "editable_groups": 364,
+  "clearance_adjusted_vertices": 330,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

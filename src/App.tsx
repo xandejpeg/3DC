@@ -288,7 +288,7 @@ export default function App() {
       <header className="app-header">
         <div className="brand">
           <strong>3DC Lab · v1</strong>
-          <span>5 bases · Corte 1 · Olho 1 · Nariz 1</span>
+          <span>5 bases · 12 cortes · Olho 1 · Nariz 1</span>
         </div>
         <div className="header-actions">
           <button type="button" onClick={() => managerRef.current?.frameCharacter()}>
@@ -360,7 +360,7 @@ export default function App() {
         )}
 
         <div className="panel-scroll">
-          <p className="catalog-note">Troque o rosto: cabelo, olhos e nariz permanecem montados. Sobrancelhas, boca e orelhas acompanham cada base.</p>
+          <p className="catalog-note">Troque o rosto ou o cabelo: os outros módulos permanecem montados. Sobrancelhas, boca e orelhas acompanham cada base.</p>
           {SLOTS.map((slot) => (
             <SlotPanel
               key={slot.id}

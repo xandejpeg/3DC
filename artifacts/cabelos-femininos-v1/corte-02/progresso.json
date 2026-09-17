@@ -1,0 +1,56 @@
+{
+  "cut": 2,
+  "label": "Longo em camadas com franja",
+  "references": [
+    "R053",
+    "R001",
+    "R005"
+  ],
+  "parameters": {
+    "label": "Longo em camadas com franja",
+    "end": 0.017,
+    "front": 0.252,
+    "volume": 0.008,
+    "part": "crown",
+    "refs": [
+      "R053",
+      "R001",
+      "R005"
+    ]
+  },
+  "status": "validated",
+  "vertices": 21458,
+  "polygons": 21156,
+  "editable_groups": 67,
+  "clearance_adjusted_vertices": 20,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

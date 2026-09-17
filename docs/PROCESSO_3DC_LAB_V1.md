@@ -11,6 +11,7 @@ O 3DC Lab v1 produz dois resultados: combinações de personagens em GLB para o 
 | `piloto-feminino-01` / `revisao-rosto-02` | Experimentos preservados de base 1 e cabelo |
 | `conjunto-feminino-v1` | Primeira revisão com cinco bases e um cabelo |
 | `conjunto-feminino-v2` / `rcl-female-v2` | Revisão dos assets com componentes faciais; catálogo ativo |
+| `cabelos-femininos-v1` | Primeira entrega dos cortes 2–12, compatível com as bases faciais existentes |
 | Contrato 0.5 | Revisão do documento de interfaces |
 
 O usuário define conceito, aparência pretendida e escopo. A implementação interpreta as imagens e registra as escolhas. Legendas de referências, dimensões propostas e relatórios anteriores são contexto revisável. A escala inicial de 24 cm não se tornou uma obrigação estética.
@@ -99,3 +100,11 @@ Cada mudança deve deixar uma ligação entre referência, decisão, código/ass
 Mensagens de commit devem explicar o problema e o resultado, os módulos afetados, a validação e os limites. Comentários de código explicam invariantes e escolhas (por exemplo, por que a borda deve coincidir), em vez de repetir a instrução que vem logo abaixo. Não inventar testes nem reconstruir uma sequência fictícia de commits históricos.
 
 Versionar cenas e módulos de entrega, referências necessárias, scripts, parâmetros, comparações e resultados de validação. Excluir dependências instaladas, build reproduzível, cache, logs temporários e backups automáticos `.blend1`. Revisões anteriores identificadas por nome continuam disponíveis. O objetivo é permitir que o projeto do jogo rastreie cada GLB até o commit e a cena que o produziram.
+
+## 9. Expansão dos cabelos femininos 2–12
+
+`scripts/rcl-cabelos.py -- --cut N` reutiliza a cena facial entregue como biblioteca, cria apenas o cabelo N e salva antes de renderizar. As mechas, cachos, elásticos e desenhos possuem grupos nomeados para edição no Blender. O mesmo objeto gera a prévia e o GLB; não há cabelo remodelado por rosto. Cada corte tem checkpoint próprio, permitindo retomar uma falha sem executar os demais.
+
+Foram consultados os originais arquivados R053–R063 e as oito combinações R001–R008, cópias verificadas do inventário. Caimento, franja, risca, ritmo dos cachos e volume lateral foram relacionados. Um envelope comum das cinco bases e peças faciais corrige o interior das mechas mais curvas; a origem, as bases, olhos, nariz e partes fixas permanecem preservados. As cores dos raspados acompanham o material de pele existente.
+
+As exportações/reimportações foram concentradas após as prévias, com novas verificações nos cortes que falharam. `rcl-cabelos-catalogo.py` aceita somente entregas sem interseções detectadas. `npm run test:rcl-hair` testa as 60 combinações e a permanência dos outros slots em 120 operações de troca. A expansão do catálogo não alterou o exportador do aplicativo. [Decisões, problemas, evidências e comandos](registros/2026-09-17-cabelos-femininos.md).

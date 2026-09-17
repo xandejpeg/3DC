@@ -12,7 +12,8 @@
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
     "validate:glb": "node scripts/validate-glb.mjs",
-    "test:rcl": "node scripts/test-rcl-integration.mjs"
+    "test:rcl": "node scripts/test-rcl-integration.mjs",
+    "test:rcl-hair": "node scripts/test-rcl-hair.mjs"
   },
   "dependencies": {
     "idb": "8.0.3",

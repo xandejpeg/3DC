@@ -1,0 +1,57 @@
+{
+  "cut": 11,
+  "label": "Curto com desenhos raspados",
+  "references": [
+    "R062",
+    "R004",
+    "R008"
+  ],
+  "parameters": {
+    "label": "Curto com desenhos raspados",
+    "end": 0.145,
+    "front": 0.247,
+    "volume": 0.001,
+    "part": "crop",
+    "refs": [
+      "R062",
+      "R004",
+      "R008"
+    ]
+  },
+  "status": "validated",
+  "vertices": 82777,
+  "polygons": 84266,
+  "editable_groups": 496,
+  "clearance_adjusted_vertices": 2813,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "roundtrip_vertex_color_max_error": 0.0031406283378601074,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

@@ -44,6 +44,83 @@
       "fileSize": 355120
     },
     {
+      "id": "rcl-v2-hair-02",
+      "slotId": "hair",
+      "name": "Corte Feminino 2",
+      "fileName": "corte-feminino-02.glb",
+      "fileSize": 979744
+    },
+    {
+      "id": "rcl-v2-hair-03",
+      "slotId": "hair",
+      "name": "Corte Feminino 3",
+      "fileName": "corte-feminino-03.glb",
+      "fileSize": 787108
+    },
+    {
+      "id": "rcl-v2-hair-04",
+      "slotId": "hair",
+      "name": "Corte Feminino 4",
+      "fileName": "corte-feminino-04.glb",
+      "fileSize": 743336
+    },
+    {
+      "id": "rcl-v2-hair-05",
+      "slotId": "hair",
+      "name": "Corte Feminino 5",
+      "fileName": "corte-feminino-05.glb",
+      "fileSize": 976760
+    },
+    {
+      "id": "rcl-v2-hair-06",
+      "slotId": "hair",
+      "name": "Corte Feminino 6",
+      "fileName": "corte-feminino-06.glb",
+      "fileSize": 848344
+    },
+    {
+      "id": "rcl-v2-hair-07",
+      "slotId": "hair",
+      "name": "Corte Feminino 7",
+      "fileName": "corte-feminino-07.glb",
+      "fileSize": 2920820
+    },
+    {
+      "id": "rcl-v2-hair-08",
+      "slotId": "hair",
+      "name": "Corte Feminino 8",
+      "fileName": "corte-feminino-08.glb",
+      "fileSize": 814980
+    },
+    {
+      "id": "rcl-v2-hair-09",
+      "slotId": "hair",
+      "name": "Corte Feminino 9",
+      "fileName": "corte-feminino-09.glb",
+      "fileSize": 3396024
+    },
+    {
+      "id": "rcl-v2-hair-10",
+      "slotId": "hair",
+      "name": "Corte Feminino 10",
+      "fileName": "corte-feminino-10.glb",
+      "fileSize": 1060952
+    },
+    {
+      "id": "rcl-v2-hair-11",
+      "slotId": "hair",
+      "name": "Corte Feminino 11",
+      "fileName": "corte-feminino-11.glb",
+      "fileSize": 5348064
+    },
+    {
+      "id": "rcl-v2-hair-12",
+      "slotId": "hair",
+      "name": "Corte Feminino 12",
+      "fileName": "corte-feminino-12.glb",
+      "fileSize": 814984
+    },
+    {
       "id": "rcl-v2-eye-01",
       "slotId": "eyes",
       "name": "Olho 1 · Castanho",

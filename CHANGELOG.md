@@ -1,5 +1,15 @@
 # Histórico do 3DC Lab v1
 
+## 17/09/2026 — Cortes femininos 2–12
+
+- Onze novos cabelos GLB no catálogo existente, com cenas e progresso independentes por corte.
+- 12 cabelos × 5 bases; trocas preservam rosto/cabelo selecionado, olhos, nariz e partes faciais fixas.
+- Referências isoladas e montadas consultadas; modelagem por mechas, cachos e casca interna, com correções de têmporas/orelhas no cabelo.
+- Onze reimportações Blender, 55 verificações de encaixe dos cabelos novos, 120 trocas no `SceneManager` real, build aprovado e 11 GLBs sem erros/avisos no Khronos Validator.
+- Corte 1, bases, peças faciais e fluxo de exportação do app preservados.
+
+Limites: formas ainda interpretadas, algumas mechas/cachos mais regulares que as referências, traseiras estimadas, cabelos cacheados densos e ausência de nova auditoria por cliques (navegador indisponível). [Registro e retomada](docs/registros/2026-09-17-cabelos-femininos.md).
+
 ## 17/09/2026 — Conjunto feminino e registro do processo
 
 Este é o primeiro checkpoint completo do laboratório no Git. Ele reúne etapas realizadas antes deste commit; não simula commits retroativos para cada tentativa de modelagem.

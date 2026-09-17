@@ -1,0 +1,68 @@
+[
+  {
+    "path": "public/models/rcl-feminino-v2/base-feminina-01.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "7481569bff88022eaa39b4d3709551381871156b2ade0a27b33c8ea979167ff0"
+  },
+  {
+    "path": "public/models/rcl-feminino-v2/base-feminina-02.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "6b7718cde02b6a91ef74866a2ca2909683ea1a33eba55648f0fa5659e954eff5"
+  },
+  {
+    "path": "public/models/rcl-feminino-v2/base-feminina-03.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "65b194d627e0d312b69624985154c8513a257fe370fa551b39e55cc6f6df984e"
+  },
+  {
+    "path": "public/models/rcl-feminino-v2/base-feminina-04.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "222d42054fef4a2c26161eef75df9d48d2d3948edf982067ac645825a082ac3c"
+  },
+  {
+    "path": "public/models/rcl-feminino-v2/base-feminina-05.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "e0e6ed04c1e518c2d4404f9d5070e6e52b277790c6c4d5232c409bd9cf9e737f"
+  },
+  {
+    "path": "public/models/rcl-feminino-v2/corte-feminino-01.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "ee60967549abf3286979a7f2debd6fef2ffc2c65abb33d10ce2d8133b37115c9"
+  },
+  {
+    "path": "public/models/rcl-feminino-v2/olho-01-par.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "a00afba4adaca63b8aa108e12feac6f99a689d6ab37772fa025263d9d62f38cb"
+  },
+  {
+    "path": "public/models/rcl-feminino-v2/nariz-01.glb",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "d2f453497620780288f498851bd2f51df94c1c7454cec63c681a573d616f215d"
+  },
+  {
+    "path": "artifacts/conjunto-feminino-v2/conjunto-feminino-v2.blend",
+    "unchanged": true,
+    "comparison": "bytes",
+    "sha256": "989a0f906b95c8da5117a5ebc0ddded094622cc693fad192dd04d2833f296290"
+  },
+  {
+    "path": "src/lib/exportGlb.ts",
+    "unchanged": true,
+    "comparison": "text LF",
+    "sha256": "eae46ce55f99495401cfb4ea5de5689082dac70a7f48643e6af162a1adba75a3"
+  },
+  {
+    "path": "src/three/SceneManager.ts",
+    "unchanged": true,
+    "comparison": "text LF",
+    "sha256": "f2bbc5ffb3ed2919b31b3b4c646046672c83f7ec49885877806f9887eeea3c74"
+  }
+]

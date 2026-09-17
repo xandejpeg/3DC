@@ -1,0 +1,56 @@
+{
+  "cut": 3,
+  "label": "Rabo lateral baixo com franja",
+  "references": [
+    "R054",
+    "R001",
+    "R005"
+  ],
+  "parameters": {
+    "label": "Rabo lateral baixo com franja",
+    "end": 0.147,
+    "front": 0.253,
+    "volume": 0.002,
+    "part": "swept",
+    "refs": [
+      "R054",
+      "R001",
+      "R005"
+    ]
+  },
+  "status": "validated",
+  "vertices": 17594,
+  "polygons": 17340,
+  "editable_groups": 59,
+  "clearance_adjusted_vertices": 5,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}

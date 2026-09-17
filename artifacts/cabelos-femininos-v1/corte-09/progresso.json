@@ -1,0 +1,56 @@
+{
+  "cut": 9,
+  "label": "Afro volumoso",
+  "references": [
+    "R060",
+    "R003",
+    "R007"
+  ],
+  "parameters": {
+    "label": "Afro volumoso",
+    "end": 0.067,
+    "front": 0.248,
+    "volume": 0.044,
+    "part": "curls",
+    "refs": [
+      "R060",
+      "R003",
+      "R007"
+    ]
+  },
+  "status": "validated",
+  "vertices": 72331,
+  "polygons": 73706,
+  "editable_groups": 428,
+  "clearance_adjusted_vertices": 0,
+  "source_geometry_unchanged": true,
+  "roundtrip_geometry_equal": true,
+  "roundtrip_materials_equal": true,
+  "intersections": {
+    "base-f-01": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-02": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-03": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-04": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    },
+    "base-f-05": {
+      "base": 0,
+      "fixed": 0,
+      "eyes_nose": 0
+    }
+  }
+}
