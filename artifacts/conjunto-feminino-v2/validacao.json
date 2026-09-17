@@ -1,0 +1,126 @@
+{
+  "source": "conjunto-feminino-v1",
+  "hair_file_unchanged": true,
+  "checks": [
+    {
+      "base": 1,
+      "kind": "separados",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 1,
+      "kind": "montagem",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 2,
+      "kind": "separados",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 2,
+      "kind": "montagem",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 3,
+      "kind": "separados",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 3,
+      "kind": "montagem",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 4,
+      "kind": "separados",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 4,
+      "kind": "montagem",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 5,
+      "kind": "separados",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    },
+    {
+      "base": 5,
+      "kind": "montagem",
+      "geometry_equal": true,
+      "materials_equal": true,
+      "seam_max_m": {
+        "eye-L": 0.0,
+        "eye-R": 0.0,
+        "nose": 0.0
+      },
+      "base_hair_intersections": 0
+    }
+  ]
+}

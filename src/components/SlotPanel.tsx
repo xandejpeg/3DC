@@ -83,15 +83,17 @@ export function SlotPanel(props: SlotPanelProps) {
                 {part.fileName} · {formatBytes(part.fileSize)}
               </span>
             </button>
-            <button
-              type="button"
-              className="danger"
-              disabled={busy}
-              aria-label={`Remover ${part.name}`}
-              onClick={() => onDelete(part)}
-            >
-              Remover
-            </button>
+            {!part.bundled && (
+              <button
+                type="button"
+                className="danger"
+                disabled={busy}
+                aria-label={`Remover ${part.name}`}
+                onClick={() => onDelete(part)}
+              >
+                Remover
+              </button>
+            )}
           </li>
         ))}
       </ul>

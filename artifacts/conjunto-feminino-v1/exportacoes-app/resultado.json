@@ -1,0 +1,96 @@
+{
+  "test": "non-UI application integration",
+  "passed": true,
+  "results": [
+    {
+      "base": 1,
+      "hair_same_instance": true,
+      "hair_geometry_unchanged": true,
+      "export_reimport_equal": true,
+      "bounds": [
+        [
+          -0.1120000034570694,
+          0,
+          -0.11124656349420547
+        ],
+        [
+          0.10999999940395355,
+          0.3331466615200043,
+          0.10053984075784683
+        ]
+      ]
+    },
+    {
+      "base": 2,
+      "hair_same_instance": true,
+      "hair_geometry_unchanged": true,
+      "export_reimport_equal": true,
+      "bounds": [
+        [
+          -0.1120000034570694,
+          0,
+          -0.11124656349420547
+        ],
+        [
+          0.10999999940395355,
+          0.3331466615200043,
+          0.10053984075784683
+        ]
+      ]
+    },
+    {
+      "base": 3,
+      "hair_same_instance": true,
+      "hair_geometry_unchanged": true,
+      "export_reimport_equal": true,
+      "bounds": [
+        [
+          -0.1120000034570694,
+          0,
+          -0.11124656349420547
+        ],
+        [
+          0.10999999940395355,
+          0.3331466615200043,
+          0.10053984075784683
+        ]
+      ]
+    },
+    {
+      "base": 4,
+      "hair_same_instance": true,
+      "hair_geometry_unchanged": true,
+      "export_reimport_equal": true,
+      "bounds": [
+        [
+          -0.1120000034570694,
+          0,
+          -0.11124656349420547
+        ],
+        [
+          0.10999999940395355,
+          0.3331466615200043,
+          0.10053984075784683
+        ]
+      ]
+    },
+    {
+      "base": 5,
+      "hair_same_instance": true,
+      "hair_geometry_unchanged": true,
+      "export_reimport_equal": true,
+      "bounds": [
+        [
+          -0.1120000034570694,
+          0,
+          -0.11124656349420547
+        ],
+        [
+          0.10999999940395355,
+          0.3331466615200043,
+          0.10053984075784683
+        ]
+      ]
+    }
+  ]
+}

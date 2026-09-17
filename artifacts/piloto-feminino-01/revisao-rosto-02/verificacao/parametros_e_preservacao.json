@@ -1,0 +1,359 @@
+{
+  "parameters": {
+    "lower_face_height_reduction_ratio": 0.1272727273,
+    "chin_raise_m": 0.014000000306441827,
+    "width_factors_by_original_z_m": [
+      [
+        0,
+        1
+      ],
+      [
+        0.012,
+        1.04
+      ],
+      [
+        0.035,
+        1.16
+      ],
+      [
+        0.052,
+        1.19
+      ],
+      [
+        0.065,
+        1.24
+      ],
+      [
+        0.085,
+        1.18
+      ],
+      [
+        0.102,
+        1.1
+      ],
+      [
+        0.122,
+        1.055
+      ],
+      [
+        0.14,
+        1.015
+      ],
+      [
+        0.15,
+        1
+      ]
+    ],
+    "neck_front_fill_m": 0.004,
+    "chin_depth_reduction_m": 0.002,
+    "protected_boundary_blend_m": 0.01,
+    "hair_freeze_distance_m": 0.006,
+    "hair_blend_distance_m": 0.018,
+    "scale_policy": "metres; previous 0.24 m is a provisional reference, no global scaling or height enforcement",
+    "reference_ids": [
+      "R076",
+      "R088",
+      "R049",
+      "R052"
+    ]
+  },
+  "original_file_sha256": {
+    "piloto-feminino-01.blend": "06341242774a78c8fbcc79d493481c71d9ea58e19cc5647c8e59312ec2a77a5d",
+    "base-feminina-01.glb": "d1abcb39554190aacb0868718792d81689fce6520c2811ea55f18ccc3f8f8701",
+    "corte-feminino-01.glb": "5c423d648d3d9a702b8f3cce214017c551fe6db04fcdf0fdf5d8c7947851d3e7",
+    "montagem-feminina-01.glb": "c7d25c5f19eb85ad1da265d8438a44c5ea6f343f9a082ab50857b11e7da9d221"
+  },
+  "vertices_changed": 689,
+  "max_displacement_m": 0.01559187699426401,
+  "protected_vertex_count": 2012,
+  "protected_max_displacement_m": 0.0,
+  "hair_vertices_exactly_equal": true,
+  "hair_transform_exactly_equal": true,
+  "hair_topology_equal": true,
+  "base_hair_triangle_intersections": 0,
+  "measurements": {
+    "before_head_height_m": 0.24000000953674316,
+    "after_head_height_m": 0.22600001096725464,
+    "before_chin_z_m": 0.06499999761581421,
+    "after_chin_z_m": 0.07899999618530273,
+    "crown_z_m": 0.3050000071525574
+  },
+  "landmarks": [
+    {
+      "original_z_target": 0.035,
+      "position": "frente",
+      "vertex": 160,
+      "before": [
+        0.0,
+        -0.01816140115261078,
+        0.03205469623208046
+      ],
+      "after": [
+        0.0,
+        -0.02205330692231655,
+        0.035061709582805634
+      ]
+    },
+    {
+      "original_z_target": 0.035,
+      "position": "diagonal",
+      "vertex": 167,
+      "before": [
+        0.016401058062911034,
+        -0.015806492418050766,
+        0.032496798783540726
+      ],
+      "after": [
+        0.018960364162921906,
+        -0.019727593287825584,
+        0.03567090630531311
+      ]
+    },
+    {
+      "original_z_target": 0.035,
+      "position": "lateral",
+      "vertex": 180,
+      "before": [
+        0.03186066448688507,
+        0.0008705110521987081,
+        0.033471301198005676
+      ],
+      "after": [
+        0.03690994530916214,
+        -0.002867960836738348,
+        0.03702358156442642
+      ]
+    },
+    {
+      "original_z_target": 0.065,
+      "position": "frente",
+      "vertex": 320,
+      "before": [
+        0.0,
+        -0.057999998331069946,
+        0.06499999761581421
+      ],
+      "after": [
+        0.0,
+        -0.058865614235401154,
+        0.07899999618530273
+      ]
+    },
+    {
+      "original_z_target": 0.065,
+      "position": "diagonal",
+      "vertex": 334,
+      "before": [
+        0.027379292994737625,
+        -0.02889389917254448,
+        0.06720931828022003
+      ],
+      "after": [
+        0.0338946133852005,
+        -0.030846673995256424,
+        0.08118143677711487
+      ]
+    },
+    {
+      "original_z_target": 0.065,
+      "position": "lateral",
+      "vertex": 340,
+      "before": [
+        0.030626408755779266,
+        -0.0013033859431743622,
+        0.07253076881170273
+      ],
+      "after": [
+        0.03485590219497681,
+        -0.0023236055858433247,
+        0.08108973503112793
+      ]
+    },
+    {
+      "original_z_target": 0.085,
+      "position": "frente",
+      "vertex": 560,
+      "before": [
+        0.0,
+        -0.0689999982714653,
+        0.08500000089406967
+      ],
+      "after": [
+        0.0,
+        -0.06796415895223618,
+        0.09703949093818665
+      ]
+    },
+    {
+      "original_z_target": 0.085,
+      "position": "diagonal",
+      "vertex": 494,
+      "before": [
+        0.03817149996757507,
+        -0.041390903294086456,
+        0.08501140028238297
+      ],
+      "after": [
+        0.04504236578941345,
+        -0.04042094200849533,
+        0.09704886376857758
+      ]
+    },
+    {
+      "original_z_target": 0.085,
+      "position": "lateral",
+      "vertex": 420,
+      "before": [
+        0.03586486726999283,
+        -0.002237738808616996,
+        0.08512410521507263
+      ],
+      "after": [
+        0.04005400091409683,
+        -0.002316140802577138,
+        0.09292281419038773
+      ]
+    },
+    {
+      "original_z_target": 0.102,
+      "position": "frente",
+      "vertex": 720,
+      "before": [
+        0.0,
+        -0.07199999690055847,
+        0.10199999809265137
+      ],
+      "after": [
+        0.0,
+        -0.07183284312486649,
+        0.11035123467445374
+      ]
+    },
+    {
+      "original_z_target": 0.102,
+      "position": "diagonal",
+      "vertex": 731,
+      "before": [
+        0.048665981739759445,
+        -0.056054212152957916,
+        0.1046084389090538
+      ],
+      "after": [
+        0.05158315598964691,
+        -0.05600569024682045,
+        0.10933101177215576
+      ]
+    },
+    {
+      "original_z_target": 0.102,
+      "position": "lateral",
+      "vertex": 660,
+      "before": [
+        0.056748971343040466,
+        -0.0028271765913814306,
+        0.10505758225917816
+      ],
+      "after": [
+        0.0604090541601181,
+        -0.0028271765913814306,
+        0.11010405421257019
+      ]
+    },
+    {
+      "original_z_target": 0.122,
+      "position": "frente",
+      "vertex": 880,
+      "before": [
+        0.0,
+        -0.0728767141699791,
+        0.12200000137090683
+      ],
+      "after": [
+        0.0,
+        -0.0728767141699791,
+        0.12200000137090683
+      ]
+    },
+    {
+      "original_z_target": 0.122,
+      "position": "diagonal",
+      "vertex": 890,
+      "before": [
+        0.05232590064406395,
+        -0.060524750500917435,
+        0.12354009598493576
+      ],
+      "after": [
+        0.052908364683389664,
+        -0.060524750500917435,
+        0.12420284748077393
+      ]
+    },
+    {
+      "original_z_target": 0.122,
+      "position": "lateral",
+      "vertex": 820,
+      "before": [
+        0.0689999982714653,
+        -2.8825162742829313e-11,
+        0.12040896713733673
+      ],
+      "after": [
+        0.07085742801427841,
+        -2.8825162742829313e-11,
+        0.1222943663597107
+      ]
+    },
+    {
+      "original_z_target": 0.143,
+      "position": "frente",
+      "vertex": 1040,
+      "before": [
+        0.0,
+        -0.07450000196695328,
+        0.14300000667572021
+      ],
+      "after": [
+        0.0,
+        -0.07450000196695328,
+        0.14300000667572021
+      ]
+    },
+    {
+      "original_z_target": 0.143,
+      "position": "diagonal",
+      "vertex": 1050,
+      "before": [
+        0.057982757687568665,
+        -0.06216055527329445,
+        0.14381533861160278
+      ],
+      "after": [
+        0.05799523741006851,
+        -0.06216055527329445,
+        0.14381983876228333
+      ]
+    },
+    {
+      "original_z_target": 0.143,
+      "position": "lateral",
+      "vertex": 1060,
+      "before": [
+        0.0820000022649765,
+        -3.0009758567040024e-11,
+        0.14678403735160828
+      ],
+      "after": [
+        0.0820000022649765,
+        -3.0009758567040024e-11,
+        0.14678403735160828
+      ]
+    }
+  ],
+  "base_topology": {
+    "boundary_edges": 0,
+    "non_manifold_edges": 0
+  },
+  "original_files_still_unchanged": true,
+  "comparisons_have_identical_cameras_and_lighting": true
+}

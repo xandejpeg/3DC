@@ -20,7 +20,8 @@ import {
 import { assertGlb, downloadGlb, exportGroupToGlb } from './lib/exportGlb';
 import { inspectForExport, type ExportReport } from './lib/inspect';
 import { disposePart, instantiate, loadPartGltf } from './lib/partCache';
-import { STORAGE_NOTE, THREE_VERSION } from './limits';
+import { STORAGE_NOTE } from './limits';
+import { bundledParts, currentBundledId } from './lib/catalog';
 import type { SceneManager } from './three/SceneManager';
 import type { PartMeta, SlotStatus } from './types';
 
@@ -49,6 +50,7 @@ export default function App() {
   const [notice, setNotice] = useState<string | null>(null);
   const [storage, setStorage] = useState<StorageInfo | null>(null);
   const [gridVisible, setGridVisible] = useState(true);
+  const [hairPreviewVisible, setHairPreviewVisible] = useState(true);
   const [report, setReport] = useState<ExportReport | null>(null);
   const [exportBusy, setExportBusy] = useState(false);
   const [exportError, setExportError] = useState<string | null>(null);
@@ -114,7 +116,7 @@ export default function App() {
     [mountPart],
   );
 
-  /** Troca só a base; o cabelo montado não é tocado. */
+  /** Troca só a base; preservar cabelo, olhos e nariz demonstra o encaixe modular. */
   const stepBase = useCallback(
     (direction: -1 | 1) => {
       const bases = parts.filter((part) => part.slotId === BASE_SLOT);
@@ -155,14 +157,15 @@ export default function App() {
         const known = new Set(storedParts.map((part) => part.id));
         const valid: Record<string, string | null> = {};
         for (const slot of SLOTS) {
-          const partId = storedSelection[slot.id];
-          valid[slot.id] = partId && known.has(partId) ? partId : null;
+          const partId = currentBundledId(storedSelection[slot.id]);
+          valid[slot.id] = partId && known.has(partId)
+            ? partId
+            : bundledParts.find((part) => part.slotId === slot.id)?.id ?? null;
         }
         selectionRef.current = valid;
         setSelection(valid);
-        for (const slot of SLOTS) {
-          if (valid[slot.id]) void mountPart(slot.id, valid[slot.id]);
-        }
+        await Promise.all(SLOTS.map((slot) => mountPart(slot.id, valid[slot.id])));
+        if (!cancelled) managerRef.current?.frameCharacter();
         refreshStorage();
       } catch (error) {
         if (!cancelled) setNotice(`Não foi possível abrir a biblioteca: ${describeError(error)}`);
@@ -278,13 +281,14 @@ export default function App() {
 
   const libraryEmpty = parts.length === 0;
   const anythingMounted = Object.values(selection).some(Boolean);
+  const mounting = Object.values(status).some((slot) => slot.state !== 'idle');
 
   return (
     <div className="app">
       <header className="app-header">
         <div className="brand">
-          <strong>Bases femininas + Corte 1</strong>
-          <span>peças GLB · three.js {THREE_VERSION}</span>
+          <strong>3DC Lab · v1</strong>
+          <span>5 bases · Corte 1 · Olho 1 · Nariz 1</span>
         </div>
         <div className="header-actions">
           <button type="button" onClick={() => managerRef.current?.frameCharacter()}>
@@ -301,8 +305,8 @@ export default function App() {
           >
             {gridVisible ? 'Ocultar grade' : 'Mostrar grade'}
           </button>
-          <button type="button" className="primary" disabled={!anythingMounted} onClick={openExport}>
-            Exportar GLB
+          <button type="button" className="primary" disabled={!anythingMounted || mounting || busy} onClick={openExport}>
+            Exportar montagem GLB
           </button>
         </div>
       </header>
@@ -312,6 +316,7 @@ export default function App() {
           onReady={(manager) => {
             managerRef.current = manager;
             manager.setGridVisible(gridVisible);
+            manager.setHairPreviewVisible(hairPreviewVisible);
             setReady(true);
           }}
           onDispose={() => {
@@ -320,12 +325,21 @@ export default function App() {
             setReady(false);
           }}
         />
+        <div className="view-actions" aria-label="Vistas do personagem">
+          {([['front', 'Frente'], ['side', 'Perfil'], ['threeQuarter', 'Três quartos'], ['back', 'Costas']] as const).map(([view, label]) => (
+            <button key={view} type="button" onClick={() => managerRef.current?.setView(view)}>{label}</button>
+          ))}
+          <button type="button" aria-pressed={!hairPreviewVisible} title="Oculta o cabelo só na visualização; a exportação mantém a montagem." onClick={() => {
+            const visible = !hairPreviewVisible;
+            setHairPreviewVisible(visible);
+            managerRef.current?.setHairPreviewVisible(visible);
+          }}>{hairPreviewVisible ? 'Ocultar cabelo' : 'Mostrar cabelo'}</button>
+        </div>
         {libraryEmpty ? (
           <div className="stage-empty">
             <strong>Nenhum arquivo importado ainda.</strong>
             <p>
-              Importe as 5 bases femininas no slot <em>Base feminina</em> e o corte no slot{' '}
-              <em>Cabelo</em>, ao lado. Nada é gerado pelo app: só aparece o que você importar.
+              O conjunto RCL aparece automaticamente. Você também pode importar outras peças nos slots ao lado.
             </p>
           </div>
         ) : (
@@ -346,6 +360,7 @@ export default function App() {
         )}
 
         <div className="panel-scroll">
+          <p className="catalog-note">Troque o rosto: cabelo, olhos e nariz permanecem montados. Sobrancelhas, boca e orelhas acompanham cada base.</p>
           {SLOTS.map((slot) => (
             <SlotPanel
               key={slot.id}

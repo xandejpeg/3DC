@@ -1,21 +1,39 @@
-# 3DC — Criador de personagens do Real Car Lifestyle
+# 3DC Lab — v1 · Personagens do Real Car Lifestyle
 
-O 3DC será o protótipo do menu de criação de personagens e o gerador de GLB do jogo **Real Car Lifestyle**, com evolução para randomização e produção dos 50 personagens e 200 NPCs da cidade.
+O **3DC Lab v1** é o laboratório de personagens do jogo 3D **Real Car Lifestyle (RCL)**: permite estudar módulos, montar combinações e gerar GLBs, enquanto registra referências, decisões, código, resultados e limitações em Markdown e commits. Esses conceitos e arquivos serão usados no projeto do jogo. O laboratório também orienta o futuro menu de criação e a produção dos 50 personagens e 200 NPCs previstos na visão do projeto.
+
+**Estamos na v1 do produto.** As pastas `conjunto-feminino-v1` e `conjunto-feminino-v2` são revisões dos **modelos**, ambas dentro do 3DC Lab v1. A versão `0.1.0` do pacote é a identificação técnica do protótipo; não afirma uma entrega de produção final. O catálogo ativo é a revisão de modelos `rcl-female-v2`.
+
+| Para acompanhar | Documento |
+| --- | --- |
+| Como os modelos e o seletor foram construídos | [Processo do 3DC Lab v1](docs/PROCESSO_3DC_LAB_V1.md) |
+| Quais GLBs levar para o jogo e o que ainda validar | [Entrega ao projeto do jogo](docs/ENTREGA_GLB_JOGO.md) |
+| O que aconteceu nesta etapa, decisões e problemas | [Registro de 17/09/2026](docs/registros/2026-09-17-conjunto-feminino.md) |
+| Resumo das mudanças | [Changelog](CHANGELOG.md) |
+| Referências visuais que sustentam os módulos | [100 originais e índice](docs/referencias-rcl/originais/README.md) |
+
+O Git registra o processo; o seletor gera o GLB. A v1 não captura automaticamente sessões, screenshots ou histórico de decisões: esses registros são mantidos junto de cada entrega no repositório.
 
 A visão, o escopo inicial e as etapas futuras estão em [Visão do 3DC para Real Car Lifestyle](VISAO_3DC_REAL_CAR_LIFESTYLE.md).
 
-## Implementação atual — bases faciais + cabelo único
+## Implementação atual — cinco bases com rosto montado
 
-As instruções abaixo descrevem a versão atual: ela recebe GLB, alterna as bases e exporta a combinação com um cabelo. A criação da geometria e o randomizador ainda não estão implementados. O primeiro experimento terá somente bases de rosto e um cabelo fixo, sem olhos, nariz ou outros módulos faciais.
+A versão atual inclui cinco bases femininas, Corte Feminino 1, par de Olho 1 e Nariz 1 em GLBs separados. O seletor alterna as bases mantendo cabelo, olhos e nariz. Sobrancelhas, boca e orelhas acompanham o GLB de cada base. A criação de geometria dentro do aplicativo e o randomizador ainda não estão implementados.
 
-Nesta etapa, dois slots:
+Arquivos incluídos: `public/models/rcl-feminino-v2/`. Cena Blender, comparação e validações versionadas: [revisão de modelos 2](artifacts/conjunto-feminino-v2/ENTREGA.md). A primeira revisão e os pilotos anteriores foram preservados.
+
+![Cinco bases com os mesmos olhos, nariz e cabelo](artifacts/conjunto-feminino-v2/comparacao.png)
+
+Nesta etapa, quatro slots:
 
 | Slot | Conteúdo |
 | --- | --- |
-| **Base feminina** | as 5 bases (cabeça/rosto, sem cabelo) |
+| **Base feminina** | cinco formas, pescoço, sobrancelhas, boca e orelhas |
 | **Cabelo** | o "Corte feminino 1" |
+| **Olhos** | Olho 1, par com pálpebras e transição de pele |
+| **Nariz** | Nariz 1, com borda de contato comum |
 
-Sem editor de rosto: nada de olhos, boca, nariz, orelhas, morph targets ou blendshapes.
+Conjunto estático: sem editor de proporções, animação, morph targets ou blendshapes.
 Sem ajuste de posição/rotação/escala — o encaixe vem do Blender.
 
 ---
@@ -23,7 +41,7 @@ Sem ajuste de posição/rotação/escala — o encaixe vem do Blender.
 ## Como rodar
 
 ```powershell
-npm install
+npm ci
 npm run dev
 ```
 
@@ -35,21 +53,20 @@ URL local: **http://localhost:5173/**
 | `npm run build` | typecheck + build de produção em `dist/` |
 | `npm run preview` | serve o `dist/` |
 | `npm run validate:glb -- <arquivo.glb>` | roda o **Khronos glTF Validator** no arquivo |
+| `npm run test:rcl` | testa cinco trocas, cabelo/olhos/nariz fixos e exportação/reimportação usando o código real do app, sem automação da interface |
 
 Página auxiliar (só no `npm run dev`): **http://localhost:5173/verify.html** abre um `.glb`
 em cena limpa, sem a biblioteca, e mostra malhas, triângulos, materiais e caixa envolvente.
 
 ---
 
-## Como importar os 6 arquivos
+## Como experimentar o conjunto e importar outras peças
 
-1. Abra a URL local. Com a biblioteca vazia o visualizador explica o que falta.
-2. No slot **Base feminina**, arraste os 5 arquivos (`base 1 feminino.glb` … `base 5 feminino.glb`)
-   de uma vez sobre a área tracejada, ou clique e selecione os 5.
-3. No slot **Cabelo**, arraste `Corte feminino 1.glb`.
-4. A primeira peça de cada slot entra montada sozinha. Use **◀ ▶** ou as **setas do teclado**
-   para trocar a base; o cabelo continua montado e imóvel.
-5. **Exportar GLB** grava base + cabelo em um único `.glb` binário.
+1. Abra a URL local: cinco bases, Corte 1, Olho 1 e Nariz 1 aparecem automaticamente. A escolha da revisão 1 dos modelos migra para a mesma variante da revisão 2.
+2. Use **◀ ▶**, as **setas do teclado** ou os nomes para trocar a base; cabelo, olhos e nariz permanecem montados e imóveis.
+3. **Frente**, **Perfil**, **Três quartos** e **Costas** mudam apenas a câmera. **Ocultar cabelo** afeta somente a visualização.
+4. **Exportar montagem GLB** grava os quatro slots, inclusive o cabelo oculto na prévia. O botão aguarda o término do carregamento das peças.
+5. Para experimentar outros arquivos, arraste os GLBs aos respectivos slots. Suas importações continuam armazenadas no navegador; as peças incluídas no projeto não têm botão de remoção.
 
 A ordem do ◀ ▶ segue o nome do arquivo com ordenação numérica ("base 2" antes de "base 10").
 A base escolhida é lembrada ao recarregar a página.
@@ -126,7 +143,15 @@ aparecem no diálogo de exportação.
 
 ---
 
-## Verificação feita no navegador
+## Verificações do conjunto atual
+
+- Build TypeScript/Vite aprovado; aviso de tamanho do bundle JavaScript permanece.
+- Cinco trocas usando `SceneManager` e `GLTFExporter` reais mantêm as mesmas instâncias de cabelo, Olho 1 e Nariz 1. Cada exportação é reimportada para comparar geometria e materiais.
+- Dez reimportações no Blender conferem os módulos separados e as cinco montagens. Bordas de pele coincidem; o cabelo mantém o mesmo arquivo da revisão anterior; nenhum cruzamento base/cabelo foi detectado nesses testes.
+- Os 18 GLBs conferidos (oito módulos, cinco montagens do Blender e cinco exportações do app) passaram sem erros ou avisos no Khronos Validator. [Resultado registrado](artifacts/conjunto-feminino-v2/khronos-final.txt).
+- A interface atual com quatro slots não recebeu uma nova auditoria por cliques. A importação em uma engine de jogo ainda precisa ser testada.
+
+## Histórico — verificação anterior no navegador
 
 Com 3 bases + 1 cabelo importados (usando um `.glb` válido como arquivo de teste):
 
@@ -138,4 +163,4 @@ Com 3 bases + 1 cabelo importados (usando um `.glb` válido como arquivo de test
 - Validação de arquivo: `npm run validate:glb -- artifacts/personagem-fixtures.glb` reportou
   0 erros e 0 avisos no Khronos glTF Validator, sem recursos externos.
 
-Não verificado: importação na Unity e os arquivos reais de produção (bases e corte do Blender).
+Esse ensaio anterior usou fixtures e dois slots. Não equivale à validação visual do catálogo atual nem a um teste no jogo. O estado atual está na seção acima.

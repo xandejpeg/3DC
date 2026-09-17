@@ -1,0 +1,19 @@
+{
+  "Base_Feminina_01": {
+    "vertices": 2961,
+    "triangles": 5918,
+    "boundary_edges": 0,
+    "non_manifold_edges": 0
+  },
+  "Corte_Feminino_01": {
+    "vertices": 2962,
+    "triangles": 5776,
+    "boundary_edges": 0,
+    "non_manifold_edges": 0
+  },
+  "hair_base_surface_triangle_pairs": 306,
+  "hair_vertices_inside_base_signed_nearest": [],
+  "chin_z_m": 0.06499999761581421,
+  "crown_z_m": 0.3050000071525574,
+  "head_height_m": 0.24000000953674316
+}

@@ -1,5 +1,6 @@
 import { openDB, type DBSchema, type IDBPDatabase } from 'idb';
 import type { PartBlob, PartMeta } from '../types';
+import { bundledParts, getBundledData } from './catalog';
 
 const DB_NAME = 'montador-3dc';
 const DB_VERSION = 2;
@@ -24,6 +25,16 @@ export const SLOTS: SlotDef[] = [
     id: HAIR_SLOT,
     name: 'Cabelo',
     hint: 'O corte que fica montado enquanto as bases são trocadas.',
+  },
+  {
+    id: 'eyes',
+    name: 'Olhos',
+    hint: 'Olho 1 em par, com pálpebras. Compartilhado pelas cinco bases RCL.',
+  },
+  {
+    id: 'nose',
+    name: 'Nariz',
+    hint: 'Nariz 1 com borda de contato comum às cinco bases RCL.',
   },
 ];
 
@@ -104,7 +115,7 @@ function byName(a: PartMeta, b: PartMeta): number {
 export async function listParts(): Promise<PartMeta[]> {
   const db = await getDb();
   const all = await db.getAll('parts');
-  return all.sort(byName);
+  return [...bundledParts, ...all].sort(byName);
 }
 
 export async function addPartFromBuffer(
@@ -128,6 +139,7 @@ export async function addPartFromBuffer(
 }
 
 export async function deletePart(id: string): Promise<void> {
+  if (bundledParts.some((part) => part.id === id)) return;
   const db = await getDb();
   const tx = db.transaction(['parts', 'blobs'], 'readwrite');
   await tx.objectStore('parts').delete(id);
@@ -137,6 +149,8 @@ export async function deletePart(id: string): Promise<void> {
 
 /** Devolve os bytes originais, exatamente como foram importados. */
 export async function getPartData(id: string): Promise<ArrayBuffer> {
+  const bundled = await getBundledData(id);
+  if (bundled) return bundled;
   const db = await getDb();
   const record = await db.get('blobs', id);
   if (!record) throw new Error(`Arquivo da peça ${id} não está mais na biblioteca.`);

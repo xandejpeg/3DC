@@ -1,0 +1,109 @@
+{
+  "bases": [
+    {
+      "id": "base-f-01",
+      "height_m": 0.23379403352737427,
+      "manifold": true,
+      "checks": [
+        {
+          "kind": "separados",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        },
+        {
+          "kind": "montagem",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        }
+      ]
+    },
+    {
+      "id": "base-f-02",
+      "height_m": 0.23443520069122314,
+      "manifold": true,
+      "checks": [
+        {
+          "kind": "separados",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        },
+        {
+          "kind": "montagem",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        }
+      ]
+    },
+    {
+      "id": "base-f-03",
+      "height_m": 0.2298680543899536,
+      "manifold": true,
+      "checks": [
+        {
+          "kind": "separados",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        },
+        {
+          "kind": "montagem",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        }
+      ]
+    },
+    {
+      "id": "base-f-04",
+      "height_m": 0.245633102953434,
+      "manifold": true,
+      "checks": [
+        {
+          "kind": "separados",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        },
+        {
+          "kind": "montagem",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        }
+      ]
+    },
+    {
+      "id": "base-f-05",
+      "height_m": 0.23634175956249237,
+      "manifold": true,
+      "checks": [
+        {
+          "kind": "separados",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        },
+        {
+          "kind": "montagem",
+          "geometry_equal": true,
+          "materials_equal": true,
+          "intersections": 0
+        }
+      ]
+    }
+  ],
+  "common_scalp_equal": true,
+  "single_hair_file": "corte-feminino-01.glb",
+  "files": {
+    "base-feminina-01.glb": "35d52db9661dfc7ef73388ff5beff361c9ea993a22d529200db9746d5f01498d",
+    "base-feminina-02.glb": "6d959341c536d6eebe0f257a8b481e2a40ba73b235d201ae954fb6fb9159b39b",
+    "base-feminina-03.glb": "905b335de72e8e16744eb7afb2fba14fa61a9fd7cc07dd573b4ed2d10ca7deda",
+    "base-feminina-04.glb": "51b67a42fc23c8bfa78ba797c96bb3addc180e247ac04ea6e4eadef9885fda52",
+    "base-feminina-05.glb": "4e700bb3a0a57fc37d71bb4889b2e0478caffa7edfdcc965b2ff5e84f43865d0",
+    "corte-feminino-01.glb": "ee60967549abf3286979a7f2debd6fef2ffc2c65abb33d10ce2d8133b37115c9"
+  }
+}

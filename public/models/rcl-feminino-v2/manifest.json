@@ -1,0 +1,61 @@
+{
+  "version": "rcl-female-v2",
+  "parts": [
+    {
+      "id": "rcl-v2-base-01",
+      "slotId": "base",
+      "name": "Base 1 · Suave",
+      "fileName": "base-feminina-01.glb",
+      "fileSize": 123832
+    },
+    {
+      "id": "rcl-v2-base-02",
+      "slotId": "base",
+      "name": "Base 2 · Angular",
+      "fileName": "base-feminina-02.glb",
+      "fileSize": 123836
+    },
+    {
+      "id": "rcl-v2-base-03",
+      "slotId": "base",
+      "name": "Base 3 · Arredondada",
+      "fileName": "base-feminina-03.glb",
+      "fileSize": 123840
+    },
+    {
+      "id": "rcl-v2-base-04",
+      "slotId": "base",
+      "name": "Base 4 · Alongada",
+      "fileName": "base-feminina-04.glb",
+      "fileSize": 123828
+    },
+    {
+      "id": "rcl-v2-base-05",
+      "slotId": "base",
+      "name": "Base 5 · Maçãs largas",
+      "fileName": "base-feminina-05.glb",
+      "fileSize": 123840
+    },
+    {
+      "id": "rcl-v2-hair-01",
+      "slotId": "hair",
+      "name": "Corte Feminino 1",
+      "fileName": "corte-feminino-01.glb",
+      "fileSize": 355120
+    },
+    {
+      "id": "rcl-v2-eye-01",
+      "slotId": "eyes",
+      "name": "Olho 1 · Castanho",
+      "fileName": "olho-01-par.glb",
+      "fileSize": 100432
+    },
+    {
+      "id": "rcl-v2-nose-01",
+      "slotId": "nose",
+      "name": "Nariz 1",
+      "fileName": "nariz-01.glb",
+      "fileSize": 7644
+    }
+  ]
+}

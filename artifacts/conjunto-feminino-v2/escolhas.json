@@ -1,0 +1,29 @@
+{
+  "source": "conjunto-feminino-v1",
+  "shared": [
+    "hair-f-01",
+    "eye-1 pair",
+    "nose-1"
+  ],
+  "fixed_per_base": [
+    "eyebrows",
+    "mouth",
+    "ears"
+  ],
+  "eye_center": [
+    0.037,
+    -0.06,
+    0.177
+  ],
+  "eye_radius": 0.022,
+  "mouth_z": 0.116,
+  "mouth_chin_follow": 0.3,
+  "standardized_interface_vertices": 88,
+  "scalp_preserved": true,
+  "refs": [
+    33,
+    19,
+    49,
+    88
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "root": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base",
+  "count": 100,
+  "files": [
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (1) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 1, rostos e cabelos selecionados",
+      "observations": "Íris castanha, pupila preta circular e reflexo branco; esclera creme. Pálpebra superior grande cobre a parte alta da íris; abertura inferior arredondada e olhar semicerrado. Da esquerda para a direita: rosto 1 + corte 1 + olho 1; rosto 2 + corte 2 + olho 1; rosto 3 + corte 3 + olho 1. Corte 1: curto assimétrico com grandes mechas pontiagudas laterais; 2: longo em camadas com franja; 3: rabo lateral baixo com franja e mechas junto ao rosto. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 1 é mais estreito/oval e de queixo menor; 2 tem contorno de mandíbula mais amplo; 3 é mais arredondado e largo. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. O olhar é deslocado lateralmente ou para cima em parte das montagens; é pose visual, não evidência de outra variante de globo.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (1) - exemplos femininos.png",
+      "bytes": 1625984,
+      "sha256": "e29ac43d910678664651453b676467a5fecdc9eadf1e8810c8be582d01658305"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (2) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 2, rostos e cabelos selecionados",
+      "observations": "Íris verde clara com aro escuro e pupila preta; abertura semicerrada visualmente próxima ao olho 1. Mancha marrom/arroxeada ampla sob o olho. Da esquerda para a direita: rosto 4 + corte 4 + olho 2; rosto 5 + corte 5 + olho 2; rosto 3 + corte 6 + olho 2. Corte 4: bob reto curto com franja reta; 5: dois rabos baixos e divisão central; 6: médio solto com divisão central e sem franja reta. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 4 é estreito e comprido com queixo muito pontudo; 5 tem contorno triangular mais moderado; 3 é largo/arredondado. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. O olhar é deslocado lateralmente ou para cima em parte das montagens; é pose visual, não evidência de outra variante de globo.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (2) - exemplos femininos.png",
+      "bytes": 1676285,
+      "sha256": "cd9975b185d8842ef075c4e6fca4739717ab552ae8cbb5bafff14fc0370291d0"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (3) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 3, rostos e cabelos selecionados",
+      "observations": "Íris quase preta com aro cinza muito escuro, pupila preta e reflexo branco; esclera mais rosada nas laterais. Mais íris exposta que no olho 1. Da esquerda para a direita: rosto 1 + corte 7 + olho 3; rosto 2 + corte 8 + olho 3; rosto 3 + corte 9 + olho 3. Corte 7: cacheado curto em pequenos cachos volumosos; 8: médio com cachos/ondas em espiral; 9: afro grande arredondado. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 1 é mais estreito/oval e de queixo menor; 2 tem contorno de mandíbula mais amplo; 3 é mais arredondado e largo. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. O olhar é deslocado lateralmente ou para cima em parte das montagens; é pose visual, não evidência de outra variante de globo.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (3) - exemplos femininos.png",
+      "bytes": 1665440,
+      "sha256": "b1e6cc61926717121b2e43c45344d9cfdff3fc1e043606037d0d6b10f8b584c8"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (4) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 4, rostos e cabelos selecionados",
+      "observations": "Íris azul escura, pupila preta e aro externo escuro; abertura maior e mais arredondada que no olho 1, ainda parcialmente coberta acima. Da esquerda para a direita: rosto 4 + corte 10 + olho 4; rosto 5 + corte 11 + olho 4; rosto 3 + corte 12 + olho 4. Corte 10: longo ondulado de um lado e lateral raspada; 11: curto com topo de cachos e desenhos claros na lateral raspada; 12: longo ondulado, dividido próximo ao centro. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 4 é estreito e comprido com queixo muito pontudo; 5 tem contorno triangular mais moderado; 3 é largo/arredondado. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. O olhar é deslocado lateralmente ou para cima em parte das montagens; é pose visual, não evidência de outra variante de globo.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (4) - exemplos femininos.png",
+      "bytes": 1685228,
+      "sha256": "8b2cae42ebe7de4e5709a06208455a6216ce8084f149ff3dbae765f7c010d1a5"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (5) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 5, rostos e cabelos selecionados",
+      "observations": "Íris castanho escura, abertura amendoada com cantos afunilados, borda inferior de pele fina contornando o globo e cobertura superior arqueada. Da esquerda para a direita: rosto 4 + corte 1 + olho 5; rosto 5 + corte 2 + olho 5; rosto 3 + corte 3 + olho 5. Retoma cortes 1/2/3: curto assimétrico, longo em camadas com franja e rabo lateral; muda os rostos 1/2 usados no olho 1 para 4/5. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 4 é estreito e comprido com queixo muito pontudo; 5 tem contorno triangular mais moderado; 3 é largo/arredondado. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. O olhar é deslocado lateralmente ou para cima em parte das montagens; é pose visual, não evidência de outra variante de globo.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (5) - exemplos femininos.png",
+      "bytes": 1705202,
+      "sha256": "769af85599eced44b09f3194ae482d4a903000ed7d87d57eb3a896910996d6be"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (6) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 6, rostos e cabelos selecionados",
+      "observations": "Íris bege/marrom muito clara, maior abertura quase circular; pálpebras retraídas expõem praticamente toda a íris, com esclera clara ao redor. Da esquerda para a direita: rosto 1 + corte 4 + olho 6; rosto 2 + corte 5 + olho 6; rosto 3 + corte 6 + olho 6. Retoma cortes 4/5/6: bob com franja, dois rabos baixos e médio dividido ao centro; usa rostos 1/2/3, distintos de 4/5/3 do olho 2. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 1 é mais estreito/oval e de queixo menor; 2 tem contorno de mandíbula mais amplo; 3 é mais arredondado e largo. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. Olhos grandes/arregalados aparecem nas três montagens; as bases inferiores não trazem medidas nem marcação de encaixe especial equivalente à série masculina.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (6) - exemplos femininos.png",
+      "bytes": 1654397,
+      "sha256": "b19f9bd17e68412b60e625cf249be7d7c7ede844fde7d9a32e93ee13ddb527b6"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (7) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 7, rostos e cabelos selecionados",
+      "observations": "Íris azul piscina/ciano muito clara e pupila preta; abertura grande quase circular como no 6, com olheira arroxeada sob o olho. Da esquerda para a direita: rosto 4 + corte 7 + olho 7; rosto 5 + corte 8 + olho 7; rosto 3 + corte 9 + olho 7. Retoma cortes 7/8/9: cacheado curto, cachos em espiral médios e afro grande; usa rostos 4/5/3, distintos de 1/2/3 do olho 3. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 4 é estreito e comprido com queixo muito pontudo; 5 tem contorno triangular mais moderado; 3 é largo/arredondado. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. Olhos grandes/arregalados aparecem nas três montagens; as bases inferiores não trazem medidas nem marcação de encaixe especial equivalente à série masculina.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (7) - exemplos femininos.png",
+      "bytes": 1730250,
+      "sha256": "d898df85aca5683b79f8d76f8d7b6f96f80588dc542c6feebac4a434c656154e"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (8) - exemplos femininos.png",
+      "role": "Três combinações femininas com olho 8, rostos e cabelos selecionados",
+      "observations": "Íris azul clara/gelo com aro azul acinzentado; pálpebra superior baixa e abertura semicerrada como no 1. Olheiras roxas escuras e acentuadas. Da esquerda para a direita: rosto 1 + corte 10 + olho 8; rosto 2 + corte 11 + olho 8; rosto 3 + corte 12 + olho 8. Retoma cortes 10/11/12: lateral raspada com longo assimétrico, curto com desenhos laterais e longo ondulado; usa rostos 1/2/3, distintos de 4/5/3 do olho 4. Estrutura de três linhas: cabelo isolado frontal/levemente em três quartos, cabeça montada predominantemente frontal, padrão de rosto sem cabelo/olhos em três quartos. Rosto 1 é mais estreito/oval e de queixo menor; 2 tem contorno de mandíbula mais amplo; 3 é mais arredondado e largo. As bases femininas inferiores preservam um nariz pequeno integrado visualmente; ao contrário das bases masculinas dos exemplos, não mostram o mesmo bloco retangular de indicação nasal. O olhar é deslocado lateralmente ou para cima em parte das montagens; é pose visual, não evidência de outra variante de globo.",
+      "limitations": "São três combinações selecionadas, não uma matriz exaustiva de todos os rostos, cabelos e olhos. O corte tem seu próprio número; 'cabeça feminina N' nesta prancha acompanha o rosto N, não necessariamente o corte N. Sem vistas posteriores, cortes internos, espessura de cabelo, soquetes, medidas ou rig; compatibilidade 3D permanece não testada. Cores/aberturas e proporções sofrem pequenas variações de renderização; não extrair medidas exatas nem presumir identidade de malha a partir do rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos\\olho (8) - exemplos femininos.png",
+      "bytes": 1709945,
+      "sha256": "d2615ec8b757bd7f565dc3d311d51c07a1159e000d3acf4f2916eb4868f0bf05"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 1.png",
+      "role": "Prancha masculina olho1 com cabelos1/2/3 e rostos1/2/3",
+      "observations": "Correspondências: olho1+cabelo1+rosto1; olho1+cabelo2+rosto2; olho1+cabelo3+rosto3. Cabelo1 BAGUNÇADO1: mechas largas assimétricas inclinadas lateralmente; cabelo2 BAGUNÇADO2: mechas mais radiais e franja serrilhada; cabelo3 HI FADE: topo curto texturizado e laterais baixas em degradê. Olho1 tem abertura semicerrada, íris castanha e aspecto cansado/desconfiado; sobrancelhas grossas anguladas aparecem separadas acima. Módulos superiores são cascas de cabelo com região interna inferior escura; bases inferiores exibem órbitas vazias e bloco nasal claro. Geometria de cabelos muda claramente, cor permanece castanha.",
+      "limitations": "Olho1 não está isolado nesta prancha; não define fronteira entre globo/pálpebras/sobrancelhas/pele. Base e montagem têm vistas diferentes. As cascas não mostram traseira/perfil completo nem interior mensurável. Não comprova cabelo imóvel ao trocar bases.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos\\Combinação 1.png",
+      "bytes": 1638998,
+      "sha256": "d3676769a5b5b643858a5c36f57c097fb6bd4fa47e94a57b443f4f1d9caba7b0"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 2.png",
+      "role": "Prancha masculina olho1 com cabelos3/4/5 e rostos3/4/5",
+      "observations": "Correspondências: olho1+cabelo3+rosto3; olho1+cabelo4+rosto4; olho1+cabelo5+rosto5. Cabelo3 HI FADE reaparece; cabelo4 CARECA é explicitamente descrito SEM CABELO / NENHUM MÓDULO. Cabelo5 MOICANO: faixa central de pontas altas; imagem isolada mostra também casca lateral escura, enquanto montagem mostra laterais de pele aparente. É preciso decidir o que integra o módulo final. Olhos1 semicerrados/castanhos permanecem; bases rotuladas3/4/5 mudam contorno inferior. Barba, boca, orelhas e pescoço são contexto presente.",
+      "limitations": "Careca deve poder ser ausência de cabelo no catálogo, não exigir geometria fictícia. Diferença visual entre casca isolada do moicano e lateral exposta na montagem precisa ser resolvida ao construir. Sem vista traseira/perfil, medidas ou encaixe comprovado.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos\\Combinação 2.png",
+      "bytes": 1623045,
+      "sha256": "87ef932b7fda538c65d4f64adcd66c0a1c9d5edffa9db157d3fe0d26c87597f2"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 3.png",
+      "role": "Prancha masculina olho2 com cabelos6/7/8 e rostos1/2/3",
+      "observations": "Correspondências: olho2+cabelo6+rosto1; olho2+cabelo7+rosto2; olho2+cabelo8+rosto3. Olho2 é rotulado íris verde-clara e olheiras; abertura semicerrada semelhante à família olho1, com pigmentação/sombra periocular mais evidente. Cabelo6 PUNK ESPETADO: vários espigões grandes ao redor do topo; cabelo7 RAZOR PART: topo penteado lateralmente e linha clara de risca raspada; cabelo8 COQUE SAMURAI: cabelo puxado para trás e coque alto com elástico escuro. Mudanças de cabelos envolvem geometria; verde da íris, olheiras e linha de couro cabeludo podem exigir material/parametrização próprios, sem obrigar novo volume para cada cor.",
+      "limitations": "Não há olho2 isolado ou vista de perfil para separar volume de olheira de pigmentação. A risca raspada deve preservar correspondência de cor com a pele; imagem não define se é recorte, decal ou malha. Cascas e cabeça montada são renders, não demonstram interface de encaixe nem comprimentos físicos.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos\\Combinação 3.png",
+      "bytes": 1645990,
+      "sha256": "94e370dd96f4bdb46c09cd8f7ecb80fe3978241a4a3ae42ddfe680462bdf3750"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 4.png",
+      "role": "Prancha masculina olho7 com cabelos8/9/10 e rostos4/5/6",
+      "observations": "Correspondências: olho7+cabelo8+rosto4; olho7+cabelo9+rosto5; olho7+cabelo10+rosto6. Olho7 é visivelmente mais aberto e arredondado que olhos1/2, íris azul-clara/azul-piscina e olheiras arroxeadas marcadas; existe mudança de forma, não somente cor. Cabelo8 coque samurai reaparece; cabelo9 BLACK POWER tem massa arredondada de cachos em volumes facetados; cabelo10 CHAVOSO tem topo curto crespo, laterais baixas e desenhos raspados claros. Bases inferiores são rotuladas ENCAIXE OLHO7, mas mostram órbitas vazias parecidas com outras pranchas; rosto6 aparece amplo/quadrangular. Desenhos raspados/pigmentação de íris/olheiras são aspectos de material ou superfície a separar da definição de forma.",
+      "limitations": "Rótulo ENCAIXE OLHO7 não comprova que um encaixe exclusivo seja necessário nem que seja universal; precisa testar olho7 nos mesmos sockets dos outros. Sem vistas internas, perfil ou medida de volume de globo/pálpebra. Não prometer todos os olhos em todas as bases sem protótipo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos\\Combinação 4.png",
+      "bytes": 1686763,
+      "sha256": "36e92d564bd38cca768011d6ee54d807c41f1a0fbe8de102e9eead45166e7c5f"
+    },
+    {
+      "path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 5.png",
+      "role": "Prancha masculina olho5 com cabelo11/12/12 e rostos1/2/3",
+      "observations": "Título e colunas repetem cabelos11,12e12. Correspondências: olho5+cabelo11+rosto1; olho5+cabelo12+rosto2; olho5+cabelo12+rosto3. Não existe cabelo13 nesta prancha. Olho5 é rotulado amendoado, com abertura alongada lateralmente e íris muito escura/grande; forma difere dos redondos olho7. Cabelo11 DE RAUL: topo penteado para trás com mechas largas e linha frontal detalhada; cabelo12 REFLEXO DE CRIA: topo de cachos curtos com pontas claras/loiras contrastando com base escura e laterais baixas. A repetição do cabelo12 mostra intenção explícita de reutilizar o mesmo corte sobre dois rostos. Coloração clara nas pontas é material/cor; cachos e silhueta são geometria.",
+      "limitations": "Reutilização é intenção visual; não comprova mesmo tamanho/transform na geometria3D. Nenhum módulo de olho isolado; limite do módulo ocular continua indefinido. Sem traseira/perfil dos cortes; detalhes de pigmentação não devem ser confundidos automaticamente com novas peças geométricas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Combinações de Cabeças\\Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos\\Combinação 5.png",
+      "bytes": 1694305,
+      "sha256": "b69e4529ed6917154dda2d9e4d5da97d9641f1a1d820720d110abdb137217d82"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao feminina rostos e narizes/Narizes 1, 2 e 3.png",
+      "role": "Prancha feminina de correspondência: narizes1/2/3, rostos1/2/3, cabelo1",
+      "observations": "Três colunas: nariz1→cabeça feminina1→padrão rosto1; nariz2→cabeça feminina2→padrão rosto2; nariz3→cabeça feminina3→padrão rosto3. Todas montagens indicam corte1. Linha superior mostra módulos isolados frontais; central apresenta montagem frontal com cabelo curto castanho assimétrico, olhos, sobrancelhas, nariz, boca, orelhas e pescoço. Bases inferiores em três quartos possuem cavidades oculares, sobrancelhas, pequeno relevo nasal, boca e pescoço; não são bases faciais lisas. Rosto1 afunila até queixo pequeno; rosto2 tem região inferior mais ampla/angular; rosto3 tem bochechas e contorno inferior arredondados. Nariz2 se destaca pela ponta gorda.",
+      "limitations": "A prancha demonstra três associações, não todas9combinações possíveis de três rostos e três narizes. Montagens são imagens; não comprovam reutilização da mesma malha/mesmo transform, fusão, espessura ou compatibilidade automática. Nose isolado é frontal e base é três quartos; não há perfil/traseira para verificar profundidade. Aparência de cor/material é comum, variações relevantes são formas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\Combinacao feminina rostos e narizes\\Narizes 1, 2 e 3.png",
+      "bytes": 1601421,
+      "sha256": "a854e90b4038878dfdeb8bb00ab9968dea5b0f9aaaa8254ab5fd1c7fe0b705a4"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao feminina rostos e narizes/Narizes 4, 5 e 6 - Rostos 4, 5 e 6 - Cabelos 6, 8 e 9.png",
+      "role": "Prancha feminina: narizes4/5/6 com cabelos6/8/9 e rostos rotulados4/5/6",
+      "observations": "Coluna1: rosto4+nariz4+corte6; cabelo liso castanho médio, risca central e pontas perto do pescoço. Coluna2: rosto5+nariz5+corte8; cabelo castanho cacheado/ondulado de cachos largos, risca central e volume lateral. Coluna3: rosto6+nariz6+corte9; cabelo castanho crespo muito volumoso/arredondado, composto de pequenos cachos. A base inferior chamada rosto6 parece reutilizar o contorno arredondado apresentado como rosto3 na prancha feminina equivalente com corte1. Sem confirmação suficiente para declarar nova base6 distinta. Narizes superiores repetem as mesmas seis-variantes correspondentes4/5/6; diferença de cabelos é geométrica, sem paleta nova.",
+      "limitations": "Conflito de identificação rosto3/rosto6 exige decisão de catálogo; não gerar uma sexta base apenas porque este rótulo existe. Sem módulos de cabelo isolados nesta prancha, perfil, traseira, vista interna de encaixe ou medidas. Presença de olhos/boca/orelhas/pescoço é contexto de montagem, não autorização automática de escopo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\Combinacao feminina rostos e narizes\\Narizes 4, 5 e 6 - Rostos 4, 5 e 6 - Cabelos 6, 8 e 9.png",
+      "bytes": 1623957,
+      "sha256": "66dff4e31daafd3801cfbfc1f76e0719e105bfde78d9bab9025f0cdec05897b5"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao feminina rostos e narizes/Narizes 4, 5 e 6.png",
+      "role": "Prancha feminina de correspondência: narizes4/5/6 com cabelo1",
+      "observations": "Rótulos correspondem a nariz4+cabeça/rosto feminino4+corte1; nariz5+cabeça/rosto feminino5+corte1; nariz6+cabeça/rosto feminino3+corte1. Rosto4 é longo e estreito, queixo pontudo; rosto5 tem bochechas relativamente largas e queixo estreito; terceira base é mais arredondada. Montagens frontais mostram nasal4 longo estreito; nasal5 de ponta mais baixa; nasal6 largo e muito saliente visualmente. Cabelo castanho assimétrico permanece a referência de corte1. Bases inferiores têm cavidades oculares, sobrancelhas, boca, pescoço e algum relevo nasal; não fornecem interface modular vazia.",
+      "limitations": "Terceira coluna é ROSTO3, não rosto6. Conflita com numeração de outra prancha feminina de narizes4/5/6 com cabelos6/8/9. Somente três associações; proporções e continuidade de pele devem ser validadas no3D. Sem perfil/traseira ou métricas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\Combinacao feminina rostos e narizes\\Narizes 4, 5 e 6.png",
+      "bytes": 1626397,
+      "sha256": "352331e0bcf56bf781f53ad2020f02cd7ee3257df7316bd10692ac27970fecd2"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao masculina rostos e narizes/Narizes 1, 2 e 3.png",
+      "role": "Prancha masculina: narizes1/2/3, rostos1/2/3, cabelo1",
+      "observations": "Colunas: rosto masculino1+nariz1+corte1; rosto2+nariz2+corte1; rosto3+nariz3+corte1. Cabeças montadas frontais, bases em três quartos. Cabelo1 castanho curto bagunçado, mechas grandes facetadas; barba/bigode escuros, sobrancelhas, orelhas, boca e pescoço aparecem. Nariz2 tem ponta e asas mais largas; nariz3 é mais compacto. Rosto2 inferior mais estreito; rosto3 aparenta maior largura mandibular e bochechas. Bases inferiores têm órbitas vazias e bloco nasal claro/truncado: a posição do nariz é indicada visualmente, mas não há especificação técnica da borda.",
+      "limitations": "Três correspondências específicas, sem prova de aplicação cruzada a todos os rostos. Seis narizes são apresentados como mesmos módulos usados no feminino, mas imagem não comprova escala/transform idênticos entre bases masculinas e femininas. Barba/sombras fazem parte da aparência; não é possível classificar definitivamente textura versus geometria a partir do render.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\Combinacao masculina rostos e narizes\\Narizes 1, 2 e 3.png",
+      "bytes": 1626757,
+      "sha256": "e424f6517c63595f85f480b9a08c9410d1f0493d05602e9af8dc96c2f80f7a69"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao masculina rostos e narizes/Narizes 4, 5 e 6.png",
+      "role": "Prancha masculina: narizes4/5/6, rostos4/5/6, cabelo1",
+      "observations": "Colunas: rosto masculino4+nariz4+corte1; rosto5+nariz5+corte1; rosto6+nariz6+corte1. Rótulos masculinos incluem explicitamente rosto6. Rosto4 tem região inferior larga/arredondada; rosto5 estreita até queixo; rosto6 é amplo e mais quadrangular. Nariz6 cobre grande região central da face. O mesmo tipo de corte1, barba e olhos semicerrados é exibido; nariz4 fino longo, nariz5 ponta alongada, nariz6 muito largo. Bases inferiores repetem órbitas vazias e bloco claro nasal, com sobrancelhas/barba/orelhas/boca/pescoço presentes.",
+      "limitations": "Diferenças de narizes são geométricas pretendidas; escala comum e relação nariz/face não têm medidas. Sem perfil/traseira ou borda de encaixe; a barba pode esconder partes da transição mandíbula/pele e não deve ser incorporada automaticamente ao escopo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\Combinacao masculina rostos e narizes\\Narizes 4, 5 e 6.png",
+      "bytes": 1624098,
+      "sha256": "ebcad90bcb43f0562ca6374b213d65d223e11b35295ce4a580c6044b7defbb06"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 1.png",
+      "role": "Referência isolada de nariz 1",
+      "observations": "Rótulo ORIGINAL; nariz alaranjado com facetas, ponte de largura intermediária, raiz superior plana/quadrangular e ponta arredondada. Asas laterais moderadas; região inferior e narinas aparecem escuras. Diferença de desenho principalmente geométrica, sem variante de cor demonstrada.",
+      "limitations": "Somente vista frontal renderizada, sem medidas, perfil, traseira do módulo ou geometria da interface com o rosto; grade de fundo não fornece escala comprovada. Não comprova posição de encaixe nem profundidade/projeção da ponta.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\narizes\\nariz 1.png",
+      "bytes": 152910,
+      "sha256": "051dd6a3025aefb87a60a876bb88825585cc2fa7e3dcb1bd2964ee946e292c3e"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 2.png",
+      "role": "Referência isolada de nariz 2",
+      "observations": "Rótulo GORDINHO E PROTUBERANTE; ponta grande e globosa, asas largas e arredondadas, volume inferior muito mais largo que a ponte. Superfície alaranjada facetada como nariz1; a mudança visível é de silhueta e volume aparente, não de paleta.",
+      "limitations": "Somente vista frontal renderizada, sem medidas, perfil, traseira do módulo ou geometria da interface com o rosto; grade de fundo não fornece escala comprovada. Protuberância é uma intenção escrita; sua medida em profundidade não é determinada pela vista frontal.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\narizes\\nariz 2.png",
+      "bytes": 170050,
+      "sha256": "99e2931237a8b2000bb934c77ec4356180ea3d59ab4137f6bcfd6c21a9b229dd"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 3.png",
+      "role": "Referência isolada de nariz 3",
+      "observations": "Rótulo CURTO E FINO; ponta pequena arredondada, asas menores e silhueta global compacta. Mesma linguagem alaranjada facetada; aparenta ter menor altura e largura no quadro que nariz1.",
+      "limitations": "Somente vista frontal renderizada, sem medidas, perfil, traseira do módulo ou geometria da interface com o rosto; grade de fundo não fornece escala comprovada. Enquadramentos independentes impedem converter diferença em pixels em medida física.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\narizes\\nariz 3.png",
+      "bytes": 149107,
+      "sha256": "6439d9307f9b15171907a9ab3e0b9a388efe953731247dc9b0176b316869d3eb"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 4.png",
+      "role": "Referência isolada de nariz 4",
+      "observations": "Rótulo FINO, COMPRIDO E EMPINADO; ponte muito longa e estreita com expansão próxima às asas. Ponta pequena/angular e duas aberturas de narinas nitidamente visíveis na região inferior; material alaranjado comum.",
+      "limitations": "Somente vista frontal renderizada, sem medidas, perfil, traseira do módulo ou geometria da interface com o rosto; grade de fundo não fornece escala comprovada. Empinamento e ângulo da ponta exigem perfil; não deduzir curva lateral somente pelo rótulo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\narizes\\nariz 4.png",
+      "bytes": 155415,
+      "sha256": "3568e4985520b29d28b4746161ca3f0bc80e1541e62d2f4cf9d9b979e654c621"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 5.png",
+      "role": "Referência isolada de nariz 5",
+      "observations": "Rótulo LONGO, FINO E COM CALOMBO; ponte longa com mudança visível de largura/facetas no trecho médio. Ponta inferior alongada/angular; asas discretas comparadas ao nariz6. Mesma cor de pele das demais referências.",
+      "limitations": "Somente vista frontal renderizada, sem medidas, perfil, traseira do módulo ou geometria da interface com o rosto; grade de fundo não fornece escala comprovada. Calombo dorsal em perfil não é confirmado dimensionalmente pela projeção frontal; estimar como intenção, não como medida observada.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\narizes\\nariz 5.png",
+      "bytes": 163459,
+      "sha256": "db5454e14712dce59cf53937748daf7d427fbce46e7930b312314fd6230abe00"
+    },
+    {
+      "path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 6.png",
+      "role": "Referência isolada de nariz 6",
+      "observations": "Rótulo GRANDE, LARGO E ALONGADO; ponte larga, corpo longo e ponta volumosa alongada para baixo. Asas bem abertas e narinas escuras grandes; referência alaranjada facetada. Contorno inferior chega muito próximo da borda da imagem.",
+      "limitations": "Somente vista frontal renderizada, sem medidas, perfil, traseira do módulo ou geometria da interface com o rosto; grade de fundo não fornece escala comprovada. Perfil e profundidade do módulo mais volumoso não documentados.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Narizes — Módulos e Combinações\\narizes\\nariz 6.png",
+      "bytes": 174486,
+      "sha256": "912859d77f61e3514783e10f67ddc6cd2ac25d49022d91688430333305506fd4"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (1) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 1, rosto 1 e três cabelos",
+      "observations": "Íris castanha, pupila preta circular e reflexo branco; esclera creme. Pálpebra superior grande cobre a parte alta da íris; abertura inferior arredondada e olhar semicerrado. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior repete a base 1 com cavidades oculares vazias e uma região frontal retangular no lugar de um nariz completo. Montagens mantêm as cores e abertura da variante documentada, sem novas peças oculares identificadas.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A repetição aparente da base não prova que malhas/cavidades sejam idênticas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (1) - exemplos.png",
+      "bytes": 1715737,
+      "sha256": "ed311ff6271118d9003170ce1daf69036c07b1011ab9c1467774aa2ed0851a1e"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (2) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 2, rosto 1 e três cabelos",
+      "observations": "Íris verde clara com aro escuro e pupila preta; abertura semicerrada visualmente próxima ao olho 1. Mancha marrom/arroxeada ampla sob o olho. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior repete a base 1 com cavidades oculares vazias e uma região frontal retangular no lugar de um nariz completo. A olheira está presente nas cabeças montadas e não acompanha claramente a base vazia inferior; estado de material da pele deve fazer parte da montagem.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A repetição aparente da base não prova que malhas/cavidades sejam idênticas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (2) - exemplos.png",
+      "bytes": 1678524,
+      "sha256": "18f0cc4cfa67dd476dac68b611fceebc66a8079d098a41defa5e7f4809b3af25"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (3) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 3, rosto 1 e três cabelos",
+      "observations": "Íris quase preta com aro cinza muito escuro, pupila preta e reflexo branco; esclera mais rosada nas laterais. Mais íris exposta que no olho 1. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior repete a base 1 com cavidades oculares vazias e uma região frontal retangular no lugar de um nariz completo. Montagens mantêm as cores e abertura da variante documentada, sem novas peças oculares identificadas.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A repetição aparente da base não prova que malhas/cavidades sejam idênticas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (3) - exemplos.png",
+      "bytes": 1604352,
+      "sha256": "207d14e5dfa3cd368dde70cb221552ca8d6ccf499d48cd19a91fce2a0dd15d91"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (4) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 4, rosto 1 e três cabelos",
+      "observations": "Íris azul escura, pupila preta e aro externo escuro; abertura maior e mais arredondada que no olho 1, ainda parcialmente coberta acima. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior repete a base 1 com cavidades oculares vazias e uma região frontal retangular no lugar de um nariz completo. Montagens mantêm as cores e abertura da variante documentada, sem novas peças oculares identificadas.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A repetição aparente da base não prova que malhas/cavidades sejam idênticas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (4) - exemplos.png",
+      "bytes": 1612202,
+      "sha256": "972067970060f34ab3295ee44f994f4c527ccca542a464c15f4b13149cc356b9"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (5) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 5, rosto 1 e três cabelos",
+      "observations": "Íris castanho escura, abertura amendoada com cantos afunilados, borda inferior de pele fina contornando o globo e cobertura superior arqueada. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior repete a base 1 com cavidades oculares vazias e uma região frontal retangular no lugar de um nariz completo. Montagens mantêm as cores e abertura da variante documentada, sem novas peças oculares identificadas.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A repetição aparente da base não prova que malhas/cavidades sejam idênticas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (5) - exemplos.png",
+      "bytes": 1617533,
+      "sha256": "e9f2834caf1252bb26a0ceed429d86ca64676b9b7e6ba2d7ccb44df7e9f341f5"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (6) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 6, rosto 1 e três cabelos",
+      "observations": "Íris bege/marrom muito clara, maior abertura quase circular; pálpebras retraídas expõem praticamente toda a íris, com esclera clara ao redor. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior recebe legenda ENCAIXE OLHO 6, coerente com necessidade de órbitas/afastamento próprios descrita na folha ocular. Montagens mantêm as cores e abertura da variante documentada, sem novas peças oculares identificadas.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A base rotulada com encaixe especial não oferece medidas para reproduzir a mudança de afastamento.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (6) - exemplos.png",
+      "bytes": 1630417,
+      "sha256": "fb93f9d21b049b7b789fcbc960ba59639c255b5309b85395ab5efeac2062b344"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (7) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 7, rosto 1 e três cabelos",
+      "observations": "Íris azul piscina/ciano muito clara e pupila preta; abertura grande quase circular como no 6, com olheira arroxeada sob o olho. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior recebe legenda ENCAIXE OLHO 7, coerente com necessidade de órbitas/afastamento próprios descrita na folha ocular. A olheira está presente nas cabeças montadas e não acompanha claramente a base vazia inferior; estado de material da pele deve fazer parte da montagem.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A base rotulada com encaixe especial não oferece medidas para reproduzir a mudança de afastamento.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (7) - exemplos.png",
+      "bytes": 1652791,
+      "sha256": "5e3aae707991f8aa225896bc233241ed4e9635fc411631f4938cc7aff9ab98f8"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (8) - exemplos.png",
+      "role": "Comparação de montagem masculina: olho 8, rosto 1 e três cabelos",
+      "observations": "Íris azul clara/gelo com aro azul acinzentado; pálpebra superior baixa e abertura semicerrada como no 1. Olheiras roxas escuras e acentuadas. Três colunas constantes: corte 1 Bagunçado 1, corte 2 Bagunçado 2 e corte 3 Hi Fade. Cada coluna mostra cabelo isolado no alto, cabeça montada frontal no meio e base sem cabelo/olhos em três quartos abaixo. Corte 1 tem mechas pontiagudas de direção lateral; 2 tem mechas radiais mais uniformes/franja; 3 tem topo curto facetado e transição lateral curta. As três montagens mantêm o rosto masculino 1 com barba e sobrancelhas espessas, aplicando a mesma variante ocular; são exemplos de troca de cabelo sobre uma base. A linha inferior repete a base 1 com cavidades oculares vazias e uma região frontal retangular no lugar de um nariz completo. A olheira está presente nas cabeças montadas e não acompanha claramente a base vazia inferior; estado de material da pele deve fazer parte da montagem.",
+      "limitations": "Somente três montagens no rosto 1; não demonstra o olho combinado a todos os rostos masculinos ou cabelos do catálogo. Cabelo isolado e base em três quartos não têm vistas traseiras/laterais completas, medidas ou pivôs. Cavidades e nariz simplificado ilustram separação de módulos; não são especificação de soquetes geométricos nem prova de ausência de interpenetração. A repetição aparente da base não prova que malhas/cavidades sejam idênticas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\exemplos masculinos de olhos em diferentes cabelos\\olho (8) - exemplos.png",
+      "bytes": 1702543,
+      "sha256": "7feacb68b935f83f79714023550ab03ae2a0736ee77f370f4ec0e7839c5144d6"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (1) - marrom.png",
+      "role": "Documentação do módulo ocular 1, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris castanha, pupila preta circular e reflexo branco; esclera creme. Pálpebra superior grande cobre a parte alta da íris; abertura inferior arredondada e olhar semicerrado. Forma de referência, contorno superior quase horizontal na montagem, curva inferior ampla; sem olheira roxa destacada. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Aplicação no rosto feminino 1 com corte assimétrico 1, sobrancelhas menos volumosas e ponta externa do contorno superior alongada. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (1) - marrom.png",
+      "bytes": 1651070,
+      "sha256": "356f1cb079ac1a82e786d8adde4d95e5ff6171b5c5a18dea9305d989c3776ad2"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (2) - verde.png",
+      "role": "Documentação do módulo ocular 2, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris verde clara com aro escuro e pupila preta; abertura semicerrada visualmente próxima ao olho 1. Mancha marrom/arroxeada ampla sob o olho. Variação majoritariamente de cor da íris e região periorbital sobre a forma base 1; as olheiras aparecem na pele, não no globo isolado. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. A legenda feminina diz 'Mesma escala e posição do Olho 2', referência circular que não define medidas; a intenção de repetição da forma continua visualmente clara. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação. A olheira pertence visualmente à região de pele ao redor do olho; exportar só o globo como GLB não reproduz a variante completa.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (2) - verde.png",
+      "bytes": 1615812,
+      "sha256": "651107137df13107ca277beb2704fdf9e41d517053cb6ba23b1eee4687376429"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (3) - preto.png",
+      "role": "Documentação do módulo ocular 3, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris quase preta com aro cinza muito escuro, pupila preta e reflexo branco; esclera mais rosada nas laterais. Mais íris exposta que no olho 1. Abertura palpebral maior, globo declarado de mesmo volume; altera a configuração de pálpebras e a cor da esclera além da íris. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Rosto feminino 1 com íris grande escura; a aplicação muda levemente a direção do olhar, portanto direção da pupila não deve ser confundida com nova variante anatômica. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (3) - preto.png",
+      "bytes": 1623933,
+      "sha256": "79747f40ddc819dc34f9d2cfde250fd85176061c8a9d15fd9377d982599b3958"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (4) - azul.png",
+      "role": "Documentação do módulo ocular 4, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris azul escura, pupila preta e aro externo escuro; abertura maior e mais arredondada que no olho 1, ainda parcialmente coberta acima. Variação de abertura palpebral e cor, não apenas material; família visual de olhos mais abertos próxima ao 3, sem comprovação de malha idêntica. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. A vista feminina conserva os diagramas oculares do padrão masculino; aplicação tem contorno superior/cílios mais alongados lateralmente. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (4) - azul.png",
+      "bytes": 1636823,
+      "sha256": "0922fa364c35875ea8c247b5ee91a5a803b58365c77eaf716d3785514638dd9e"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (5) - marrom.png",
+      "role": "Documentação do módulo ocular 5, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris castanho escura, abertura amendoada com cantos afunilados, borda inferior de pele fina contornando o globo e cobertura superior arqueada. Contorno palpebral novo, dobra epicântica indicada no canto interno e pálpebra pouco marcada; não é substituição de cor do olho 1. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. A forma amendoada reaparece no rosto feminino; não há desenho exclusivo de globo feminino. Detalhe exibe canto interno pronunciado. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (5) - marrom.png",
+      "bytes": 1622580,
+      "sha256": "03808e65cfdb56d93be2f4f2cea877e5d8790b26c92ec17207a7f6ff5fd6d528"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (6) - marrom.png",
+      "role": "Documentação do módulo ocular 6, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris bege/marrom muito clara, maior abertura quase circular; pálpebras retraídas expõem praticamente toda a íris, com esclera clara ao redor. Além da abertura, o par fica mais afastado. A folha indica afastamento simétrico e órbitas ajustadas; isso muda posicionamento e interface com o rosto. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Aplicação feminina tem contornos externos/cílios salientes, ausentes do diagrama isolado compartilhado. Afastamento e grande abertura constam da folha. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação. O maior afastamento e as órbitas ajustadas contradizem a suposição de que basta um encaixe fixo invariável para todas as oito variantes.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (6) - marrom.png",
+      "bytes": 1677136,
+      "sha256": "45c9bb240c6ffa235aa69ced7d7fc8c18a5b8af1e218d1b5201346b8f6f1edfb"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (7) - azul.png",
+      "role": "Documentação do módulo ocular 7, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris azul piscina/ciano muito clara e pupila preta; abertura grande quase circular como no 6, com olheira arroxeada sob o olho. Combina a geometria visual e afastamento do 6 com nova íris e olheiras; exige material da pele e posicionamento, além do globo. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Grande abertura e olheira reaparecem no rosto feminino 1; ciano distingue esta variante do azul claro do 8, que é semicerrado. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação. A olheira pertence visualmente à região de pele ao redor do olho; exportar só o globo como GLB não reproduz a variante completa. O maior afastamento e as órbitas ajustadas contradizem a suposição de que basta um encaixe fixo invariável para todas as oito variantes.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (7) - azul.png",
+      "bytes": 1674319,
+      "sha256": "dd2b8e9dcfc544dbe5623883cdee47cbf9e8bb9b3913eb57cf5ea84c587f3244"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (8) - azul.png",
+      "role": "Documentação do módulo ocular 8, aplicação feminina no rosto 1/corte 1",
+      "observations": "Íris azul clara/gelo com aro azul acinzentado; pálpebra superior baixa e abertura semicerrada como no 1. Olheiras roxas escuras e acentuadas. Retorna explicitamente à escala/posição do 1 e à família semicerrada; diferenças principais são íris e mancha periorbital mais intensa. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Aplicação feminina transmite cansaço pelas olheiras e pálpebras; olhar azul claro difere da abertura grande/ciano do 7. Os diagramas do módulo isolado e das três vistas repetem visualmente o desenho da variante masculina correspondente; isso evidencia intenção de catálogo ocular comum, não prova de identidade de arquivos 3D.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O rosto rotulado 1 varia levemente em nariz, sobrancelhas e proporções entre pranchas; os diagramas isolados não documentam os cílios/contornos alongados presentes na aplicação. A olheira pertence visualmente à região de pele ao redor do olho; exportar só o globo como GLB não reproduz a variante completa.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Femininos — Rosto 1 e Corte 1\\olho (8) - azul.png",
+      "bytes": 1634969,
+      "sha256": "2064296c15d2c5143c10c5fd8628381ee24fad91c04ccae62eaa96ed1c3926c8"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (1) - marrom.png",
+      "role": "Documentação do módulo ocular 1, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris castanha, pupila preta circular e reflexo branco; esclera creme. Pálpebra superior grande cobre a parte alta da íris; abertura inferior arredondada e olhar semicerrado. Forma de referência, contorno superior quase horizontal na montagem, curva inferior ampla; sem olheira roxa destacada. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. A montagem frontal masculina mantém sobrancelhas espessas angulares, nariz largo e barba; a expressão de severidade também depende dessas peças. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (1) - marrom.png",
+      "bytes": 1622058,
+      "sha256": "42657c01523556b9937131c2fc8eda3c86d37e7e89a37c614894f18d3ef6a3a1"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (2) - verde.png",
+      "role": "Documentação do módulo ocular 2, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris verde clara com aro escuro e pupila preta; abertura semicerrada visualmente próxima ao olho 1. Mancha marrom/arroxeada ampla sob o olho. Variação majoritariamente de cor da íris e região periorbital sobre a forma base 1; as olheiras aparecem na pele, não no globo isolado. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. A folha diz mesma escala e posição do Olho 1; o módulo isolado e as três vistas não incluem a olheira que aparece no rosto. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. A olheira pertence visualmente à região de pele ao redor do olho; exportar só o globo como GLB não reproduz a variante completa.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (2) - verde.png",
+      "bytes": 1612372,
+      "sha256": "2897a4c14aec249647c1b9f47a41d5bbb7f915a3d013c675fbbf2255569bf62e"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (3) - preto.png",
+      "role": "Documentação do módulo ocular 3, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris quase preta com aro cinza muito escuro, pupila preta e reflexo branco; esclera mais rosada nas laterais. Mais íris exposta que no olho 1. Abertura palpebral maior, globo declarado de mesmo volume; altera a configuração de pálpebras e a cor da esclera além da íris. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Detalhe frontal evidencia esclera levemente avermelhada e elevação da borda superior; montagem conserva a cabeça masculina 1. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (3) - preto.png",
+      "bytes": 1608138,
+      "sha256": "ff5e83be495675352e8fb50c91163edc1ea8dedd9d7a18afab65f065a5ed6924"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (4) - azul.png",
+      "role": "Documentação do módulo ocular 4, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris azul escura, pupila preta e aro externo escuro; abertura maior e mais arredondada que no olho 1, ainda parcialmente coberta acima. Variação de abertura palpebral e cor, não apenas material; família visual de olhos mais abertos próxima ao 3, sem comprovação de malha idêntica. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Legenda indica mesmo globo ocular e pálpebras mais abertas; detalhe e montagem mostram ampla esclera sob a íris. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (4) - azul.png",
+      "bytes": 1616242,
+      "sha256": "281ea216fc3f1479473fcbf3f1a01afabfbe99b8f71e04cd610be44a42374bd4"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (5) - marrom.png",
+      "role": "Documentação do módulo ocular 5, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris castanho escura, abertura amendoada com cantos afunilados, borda inferior de pele fina contornando o globo e cobertura superior arqueada. Contorno palpebral novo, dobra epicântica indicada no canto interno e pálpebra pouco marcada; não é substituição de cor do olho 1. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. A forma amendoada aparece tanto no módulo isolado como na montagem masculina; a folha declara conservar o globo ocular. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (5) - marrom.png",
+      "bytes": 1632590,
+      "sha256": "ad9835f575a0342e97c81fced02d78a24b96e74541837324285ecfd3bb240e77"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (6) - marrom.png",
+      "role": "Documentação do módulo ocular 6, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris bege/marrom muito clara, maior abertura quase circular; pálpebras retraídas expõem praticamente toda a íris, com esclera clara ao redor. Além da abertura, o par fica mais afastado. A folha indica afastamento simétrico e órbitas ajustadas; isso muda posicionamento e interface com o rosto. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Módulo isolado tem menos cobertura superior e aro inferior fino; cabeça frontal parece mais arregalada. Legenda de perfil mostra grande exposição anterior da íris. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. O maior afastamento e as órbitas ajustadas contradizem a suposição de que basta um encaixe fixo invariável para todas as oito variantes.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (6) - marrom.png",
+      "bytes": 1676352,
+      "sha256": "f69ddf9c08b930bfddc84d3a6de9b7c41bd3a2a5a305d617aa47f3b2a72f0f64"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (7) - azul.png",
+      "role": "Documentação do módulo ocular 7, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris azul piscina/ciano muito clara e pupila preta; abertura grande quase circular como no 6, com olheira arroxeada sob o olho. Combina a geometria visual e afastamento do 6 com nova íris e olheiras; exige material da pele e posicionamento, além do globo. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. Setas apontam olhos mais afastados e olheira integrada à pele; a legenda da aplicação declara órbitas ajustadas ao novo afastamento. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. A olheira pertence visualmente à região de pele ao redor do olho; exportar só o globo como GLB não reproduz a variante completa. O maior afastamento e as órbitas ajustadas contradizem a suposição de que basta um encaixe fixo invariável para todas as oito variantes.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (7) - azul.png",
+      "bytes": 1655353,
+      "sha256": "a1e8a634774ae777574aea21a8aac44b1ac8f2dbd9ef8b2fedd99df58ad83c4a"
+    },
+    {
+      "path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (8) - azul.png",
+      "role": "Documentação do módulo ocular 8, aplicação masculina no rosto 1/corte 1",
+      "observations": "Íris azul clara/gelo com aro azul acinzentado; pálpebra superior baixa e abertura semicerrada como no 1. Olheiras roxas escuras e acentuadas. Retorna explicitamente à escala/posição do 1 e à família semicerrada; diferenças principais são íris e mancha periorbital mais intensa. Prancha de quatro painéis: par ocular isolado; olho em frente, três quartos e perfil; detalhe ampliado dos olhos no rosto; cabeça frontal montada. As olheiras escuras ocupam região sob a borda inferior, com transição para a pele; não estão presentes no módulo isolado. Estilo faceteado de baixa contagem visual de polígonos, com íris radial facetada, pupila circular preta e brilho branco.",
+      "limitations": "Referência raster ilustrativa, sem unidades, dimensões, profundidade do encaixe, pivô, topologia, UV, animação ou arquivo 3D verificável. Frente, três quartos e um perfil são desenhos sem calibração ortográfica; não garantem concordância geométrica exata entre vistas. Texto de intercambialidade descreve intenção visual; GLBs montáveis e compatibilidade com RCL/3DC precisam de validação própria. A olheira pertence visualmente à região de pele ao redor do olho; exportar só o globo como GLB não reproduz a variante completa.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Olhos\\Padrões de Olhos Masculino — Rosto 1 e Corte 1\\olho (8) - azul.png",
+      "bytes": 1628547,
+      "sha256": "d4d15006812b507fdd42403b43366d40ddf24311b16829f3e5cf9cf93837a8a9"
+    },
+    {
+      "path": "Cabeça & Rosto/Rosto Geral/Rosto Geral Feminino.jpeg",
+      "role": "Referência geral feminina montada e explodida",
+      "observations": "Inspeção direta: 1536 × 1024. Cabeça com cabelo castanho assimétrico em mechas largas, franja longa à esquerda da imagem e nuca curta; rosto afunila suavemente até o queixo, olhos semicerrados e boca de cantos baixos. Mostra frente, perfil voltado à direita da imagem, costas e uma vista em três quartos rotulada 'perfil esquerdo'. Embaixo, cabelo, dois olhos, nariz e duas orelhas são desenhados afastados da base. A base mantém sobrancelhas, boca, pescoço, órbitas vazias e um pequeno relevo nasal. Não há apêndice auricular evidente nessa base. É visualmente compatível com a família feminina 1.",
+      "limitations": "O painel 'perfil esquerdo' não é um perfil estritamente lateral: ambos os olhos continuam visíveis. O conjunto não fornece dois perfis ortogonais femininos confiáveis. A legenda diz nariz removido, mas há nariz/relevo nasal visível na base; a peça nasal explodida também parece proporcionalmente maior que o pequeno nariz da montagem. É uma ambiguidade visual, sem medida para resolver. A base não é neutra: sobrancelhas inclinadas e boca desenham expressão. Nenhuma vista mostra superfície interna do cabelo, recortes de encaixe ou base por trás.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Rosto Geral\\Rosto Geral Feminino.jpeg",
+      "bytes": 290174,
+      "sha256": "97c668b9d59691f290e5cef63436c1f5f6a2711eb113e0f404d9f8f16a81f2a1"
+    },
+    {
+      "path": "Cabeça & Rosto/Rosto Geral/Rosto Geral Masculino.jpeg",
+      "role": "Referência geral masculina montada e explodida",
+      "observations": "Inspeção direta: 1536 × 1024. Frente, dois perfis laterais e costas da cabeça montada; decomposição e base em três quartos. O nariz, a orelha e a projeção do queixo são legíveis nos perfis. Cabelo castanho curto em mechas pontudas, olhos semicerrados com sobrancelhas grossas, barba e pescoço. A mandíbula é relativamente mais estreita/afunilada do que na prancha Padrao de mudanca de Rosto. A base em três quartos é visualmente compatível com a pequena referência base masculina 1. Permanecem sobrancelhas, boca, barba e pescoço; há bloco nasal e uma saliência lateral achatada.",
+      "limitations": "A numeração e as setas descrevem uma intenção de separação; não demonstram arquivos de malha separados ou compatibilidade dos encaixes. O título 'base sem componentes' é relativo: a legenda explicitamente mantém sobrancelhas, boca e barba, e o desenho ainda contém formas no local do nariz e da orelha. As quatro vistas são da cabeça já montada, não de cada base facial 2–6; não devem ser atribuídas automaticamente a todas as variantes.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Rosto Geral\\Rosto Geral Masculino.jpeg",
+      "bytes": 283850,
+      "sha256": "6f4ab9cc7c15fe30d8c3db572920a63e05b3083165ccd7748e23a9260afe6b4e"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Padrao de mudanca de cabelo.jpeg",
+      "role": "Regra visual de troca e vistas complementares",
+      "observations": "Prancha de troca de cabelo masculina: cabeça montada com Corte2 em frente, perfil direito, costas e perfil esquerdo; Corte1 e Corte2 isolados em vista explodida. Diferencia topete assimétrico1 de franja radial2. Texto mantém olhos/nariz/orelhas/barba na cabeça neste experimento; isso descreve teste de troca, não prova que essas regiões devam ser uma única malha final.",
+      "limitations": "Quatro vistas aplicam-se à cabeça e corte2 ilustrados; não comprovam todas as outras bases ou cortes. Desenho2D não garante equivalência geométrica entre vistas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Padrao de mudanca de cabelo.jpeg",
+      "bytes": 291586,
+      "sha256": "75e29b91a1077b1854539fd8d27c71d5d30e9074ef8465118c6232a94e64aa87"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 1 - Corte 1.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino1: cabelo castanho curto, assimétrico, volumoso, franja diagonal longa e grandes mechas pontudas; abertura inferior demonstra peça independente.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 1 - Corte 1.jpeg",
+      "bytes": 19910,
+      "sha256": "0104fb00f9fdc3a31046da588e84d984f881351b148196d0f05338f2ba3b15f0"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 2 - Corte 2.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino2: longo castanho em camadas com franja frontal densa e pontas alongadas nas laterais; extensão inferior já pede considerar pescoço/ombros futuros.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 2 - Corte 2.jpeg",
+      "bytes": 20589,
+      "sha256": "c26545dfbd048e3c7c02b3d90a94108e389eecc893b2adbe12429f2da41fb548"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 3 - Corte 3.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino3: franja e fios compridos na frente, cabelo preso em rabo baixo lateral à direita da imagem; assimetria precisa ser preservada no espaço3D.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 3 - Corte 3.jpeg",
+      "bytes": 20667,
+      "sha256": "d402263fbbc77018905bd0b4ddfa1f42186ddb3e2680ff83bcc57e2a2c800d56"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 4 - Corte 4.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino4: chanel curto arredondado, franja reta quase horizontal, pontas das laterais em direção ao queixo.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 4 - Corte 4.jpeg",
+      "bytes": 16236,
+      "sha256": "1f215307d2911eb6bfdbf7372c61dc7ce6b8e1355aa4b06153cd76658bb06173"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 5 - Corte 5.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino5: dois rabos laterais presos com elásticos escuros, divisão central e mechas frontais; três conjuntos visuais (calota, rabo esquerdo, direito) podem compor um só módulo.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 5 - Corte 5.jpeg",
+      "bytes": 18349,
+      "sha256": "04a621f320e2b41ba1b5dc28a7d7e128fd1ea53560b492faabf7375595644a95"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 6 - Corte 6.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino6: médio, liso com mechas largas, repartido ao centro, testa relativamente aberta; pontas laterais abaixo do queixo.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 6 - Corte 6.jpeg",
+      "bytes": 18181,
+      "sha256": "936184e0d301ab6f93f49f37d396432b75190edf8b4cc61299c66fb7f1c4fe5b"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 7 - Corte 7.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino7: crespo curto arredondado em cachos/grumos, pouco alongamento nas laterais; arco frontal amplo.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 7 - Corte 7.jpeg",
+      "bytes": 16601,
+      "sha256": "4e0dccfccd00bf01e906b052b3ee656b7e86d0ea8da3bb4094c68d3103616fa5"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 8 - Corte 8.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino8: cachos espirais grandes, repartição central, comprimento médio/longo; o desenho depende das silhuetas dos cachos.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 8 - Corte 8.jpeg",
+      "bytes": 19767,
+      "sha256": "579142e2860d0822951ce5aaaf416680358b7bd3f6b3cb18a56b6870ec1f665f"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 9 - Corte 9.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino9: afro/cachos densos e volumosos, grande largura e laterais mais longas que7; conferir colisão com cabeça e futuros ombros.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 9 - Corte 9.jpeg",
+      "bytes": 20159,
+      "sha256": "cb0840f49fb43aa033af003473c6081326c9a4f318c7470cbee5b57f319e9cd3"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 10 - Corte 10.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino10: muito assimétrico, mechas longas onduladas de um lado e lateral raspada do outro; região raspada expõe sensibilidade à forma do crânio.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 10 - Corte 10.jpeg",
+      "bytes": 17428,
+      "sha256": "15819efb4f2c4eb7babc3a6408255b4a48c9e0ec04b293bb0b1c8507b43773d9"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 11 - Corte 11.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino11: cabelo curto texturizado com lateral raspada e desenho claro de curvas/cruzes; visualmente aparentado ao masculino10, sem comprovação de malha compartilhada.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 11 - Corte 11.jpeg",
+      "bytes": 15439,
+      "sha256": "04090bc98420c9a3678284995ada70931c60793820addb111ed6d1b753d86514"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 12 - Corte 12.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte feminino12: cabelo longo ondulado, ondas largas e repartição central; silhueta alongada e larga, com região frontal aberta.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Feminino\\Corte feminino 12 - Corte 12.jpeg",
+      "bytes": 18962,
+      "sha256": "1a806f8232010bd64f1b4322db52d15aa8c883127cf826b52db189c49a294695"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 1 - Bagunçado 1.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino1: castanho escuro, feixes grandes facetados, topete e franja assimétricos inclinados, volume concentrado no topo; arco inferior aberto visível.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 1 - Bagunçado 1.jpeg",
+      "bytes": 18982,
+      "sha256": "eb3657735e671326d3220912bd3444a77455f583cfde3201e0958e91ffd7f0f1"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 2 - Bagunçado 2.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino2: castanho escuro, franja de pontas irregulares voltadas para frente/baixo, distribuição mais radial e arredondada que1; corte curto com massa lateral/posterior.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 2 - Bagunçado 2.jpeg",
+      "bytes": 17574,
+      "sha256": "5bf2f98ce6764447d3f02aa5963ccdc160679a64bbdb0537615d1e3a078e9947"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 3 - Hi Fade.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino3: topo curto com pequenos cachos/blocos, laterais em degradê escuro para tom de pele; cabelo bem rente. O degradê exige estudar material e transição com a pele, além de geometria.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 3 - Hi Fade.jpeg",
+      "bytes": 15616,
+      "sha256": "7a378a8ba7eda8be719a108713077d33a68763528cb67cab0207f8e80460c2e2"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 4 - Careca.jpeg",
+      "role": "Opção sem módulo de cabelo",
+      "observations": "Corte masculino4: painel contém apenas 'SEM CABELO / NENHUM MÓDULO'. É uma opção de catálogo sem peça de cabelo; não corresponde a uma24ª malha obrigatória.",
+      "limitations": "Ausência de módulo precisa ser representada pelo aplicativo; não inventar uma malha vazia como condição obrigatória.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 4 - Careca.jpeg",
+      "bytes": 16750,
+      "sha256": "8ae337a43a493cc101f8efb933143276ceec5cd79469b91841473b52bf5d6670"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 5 - Moicano.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino5: crista central de mechas rígidas triangulares formando moicano, laterais muito curtas/rentes; volume estreito e alto no topo.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 5 - Moicano.jpeg",
+      "bytes": 14982,
+      "sha256": "3800e0576a47db0785b1fb1d20ce68fd29bb59527c819c6fc3243d5e7975a1e2"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 6 - Punk Espetado.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino6: muitos espinhos longos, grandes e triangulares irradiando para cima e lados; aumenta significativamente o envelope externo.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 6 - Punk Espetado.jpeg",
+      "bytes": 19210,
+      "sha256": "0c9b084e5d976a9f676a7e4d8f2e784ed0013c6feaaf2dab8e15b26d93a42337"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 7 - Razor Part.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino7: topo penteado lateralmente em grandes faixas, lateral curta, linha raspada clara separando regiões (razor part).",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 7 - Razor Part.jpeg",
+      "bytes": 17692,
+      "sha256": "c12df65c6b91a626c1e62459e159b18a4c3452857d56a588c92b748f7a43c112"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 8 - Coque Samurai.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino8: cabelo penteado para trás até pequeno coque superior/traseiro, com laterais curtas; necessita definir geometria posterior do coque.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 8 - Coque Samurai.jpeg",
+      "bytes": 17699,
+      "sha256": "a81e4af17d92e14883660acf74d3339dfe883fd82f448163872cb8471e2ecba4"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 9 - Black Power.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino9: afro arredondado amplo composto de cachos volumosos em grumos facetados; envelope muito maior que cortes rentes.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 9 - Black Power.jpeg",
+      "bytes": 19769,
+      "sha256": "b8242cf5bed107688d968df4988b5b3ef5984edcd359694de67daf02c714e6c6"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 10 - Chavoso.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino10: cabelo bem curto texturizado, lateral em degradê e desenhos raspados claros com curvas/cruzes; detalhe de superfície é parte da identidade.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 10 - Chavoso.jpeg",
+      "bytes": 19892,
+      "sha256": "5c144694961be8868de32aea41a41a16240dc4f918164782a545f46afa99335b"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 11 - De Raul.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino11: topo penteado para trás em camadas, linha frontal marcada e laterais em degradê; massa compacta.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 11 - De Raul.jpeg",
+      "bytes": 17669,
+      "sha256": "a17f22e18530ac490754312d59d877770ee67be207ab291a02af831bbb140132"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 12 - Reflexo de Cria.jpeg",
+      "role": "Referência de módulo de cabelo isolado",
+      "observations": "Corte masculino12: crespo curto com grumos e pontas claras sobre base escura, laterais rentes; forma e distribuição de cores participam da identidade.",
+      "limitations": "Arquivo isolado oferece predominantemente uma vista em três quartos/frontal, sem medidas físicas ou superfície interna definida. Requer cruzamento com montagens e checagem3D; fundo e grade não são textura do modelo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de Corte de cabelo\\Tipos cortes\\Masculino\\Corte masculino 12 - Reflexo de Cria.jpeg",
+      "bytes": 20000,
+      "sha256": "2fc735f1dcaf71b2d23d7afe08ddf8a35611b8d2610f1fdb07d6d39c417cf5b8"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 1 feminino.jpeg",
+      "role": "Forma facial feminina 1 sem cabelo e olhos",
+      "observations": "Inspeção direta: 354 × 190. Vista em três quartos, crânio arredondado, mandíbula suave afunilando até queixo pequeno; pescoço incluído. Órbitas vazias e ausência de cabelo/orelhas visíveis, mas sobrancelhas espessas inclinadas, boca de cantos baixos e pequeno nariz continuam desenhados. Forma visualmente compatível com rosto 1 + cabelo 1 e a base de Rosto Geral Feminino.",
+      "limitations": "É uma das menores referências do grupo; não permite detalhe do nariz, pálpebra, linha de encaixe ou superfície. A base tem expressão própria e nariz remanescente; não equivale a crânio/face neutros sem componentes. Sem frente, perfil ou posterior isolados dessa base.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\base feminina\\base 1 feminino.jpeg",
+      "bytes": 13957,
+      "sha256": "79ba35d0bcaee3b81e30dfbab0bc3b1c5bb29b3c2375df37b9a6ee546d81568b"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 2 feminino.jpeg",
+      "role": "Forma facial feminina 2, variação mais angular na mandíbula",
+      "observations": "Inspeção direta: 588 × 370. Três quartos; contorno da mandíbula mais reto/angular e queixo relativamente largo quando comparado à família 1/4/5. Crânio arredondado, órbitas vazias, sobrancelhas grossas, nariz pequeno, boca inclinada para baixo e pescoço; sem cabelo nem orelhas evidentes. Rótulo padrão rosto 2 e silhueta correspondem visualmente ao painel inferior de rosto 2 + cabelo 1.",
+      "limitations": "A categorização angular descreve a imagem, não é nome técnico estabelecido pelo catálogo. Uma única vista e imagem um pouco suave/comprimida não definem cotas, profundidade nem recortes de encaixe. Nariz e expressão continuam presentes; não há evidencia visual de separação topológica desses detalhes.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\base feminina\\base 2 feminino.jpeg",
+      "bytes": 30012,
+      "sha256": "9f906f4d0b648af80f012d791e49dd895a182878238e2c542881d05b548228e5"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 3 feminino.jpeg",
+      "role": "Forma facial feminina 3, variação arredondada",
+      "observations": "Inspeção direta: 577 × 373. Vista em três quartos com bochechas cheias, mandíbula arredondada e queixo curto, criando face mais redonda que 2/4/5. Mantém sobrancelhas, boca, pequeno nariz, órbitas vazias e pescoço; não mostra cabelo ou orelhas externas. A montagem rosto 3 + cabelo 1 também apresenta bochechas cheias e contorno inferior arredondado.",
+      "limitations": "Sem frente/perfil/posterior próprios da base. O volume de bochecha é leitura de contorno e iluminação, sem medida. Nenhuma borda indica onde terminaria uma peça nasal independente; o nariz já se encontra representado na base. Sobrancelhas e boca trazem expressão, o que deve ser considerado separado de uma escolha futura de forma facial.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\base feminina\\base 3 feminino.jpeg",
+      "bytes": 29773,
+      "sha256": "775052d68eba4bd835d57ca141c80d75d37cd891a0395e6ed4d3c2153a4b795e"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 4 feminino.jpeg",
+      "role": "Forma facial feminina 4, variação alongada e afunilada",
+      "observations": "Inspeção direta: 589 × 369. Três quartos; maçãs do rosto altas visualmente, bochechas estreitas e terço inferior longo convergindo para queixo estreito/pontudo. Preserva órbitas vazias, sobrancelhas, nariz pequeno, boca e pescoço; não mostra orelhas/cabelo. O alongamento e a ponta do queixo também são legíveis na montagem rosto 4 + cabelo 1.",
+      "limitations": "Não há perfil isolado para confirmar projeção anterior do queixo ou comprimento do nariz. A referência não fornece parâmetros que diferenciem numericamente essa forma da 5. A base continua contendo nariz e expressão; o arquivo não demonstra modularidade técnica.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\base feminina\\base 4 feminino.jpeg",
+      "bytes": 30897,
+      "sha256": "b961fdb9648a31527d3f0730512cc05b9a6f4a70dcef13155c5a3ef441ab4c1e"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 5 feminino.jpeg",
+      "role": "Forma facial feminina 5, variação de maçãs largas e queixo fino",
+      "observations": "Inspeção direta: 568 × 375. Três quartos; região superior e maçãs do rosto largas, estreitamento nítido para queixo pequeno, com contorno mais compacto que a forma 4. Crânio sem cabelo e órbitas vazias; sobrancelhas grossas, pequeno nariz, boca de cantos baixos e pescoço permanecem. O painel de montagem rosto 5 + cabelo 1 confirma visualmente a oposição entre largura das maçãs e ponta do queixo.",
+      "limitations": "Rótulo só fornece número; termos como compacto/afunilado são descrições, não categorias oficiais. Sem frente/perfil/posterior isolados, medidas de crânio ou encaixe de pescoço. O nariz integrado visualmente precisa ser reconciliado com a intenção de nariz modular mostrada na prancha geral.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\base feminina\\base 5 feminino.jpeg",
+      "bytes": 29013,
+      "sha256": "befc656901d4c186e74d2482d11d2c1a998945d7ab6e571a809f9b3e7fecd2a8"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 1.jpeg",
+      "role": "Forma facial masculina 1 isolada do cabelo e olhos",
+      "observations": "Inspeção direta: 267 × 328, vista única em três quartos. Cabeça alongada moderadamente, maçãs do rosto marcadas e mandíbula que afunila para queixo arredondado/anguloso. Retém sobrancelhas grossas, boca, barba, pescoço, bloco nasal claro e saliência lateral achatada; órbitas vazias e crânio sem cabelo. A composição e a forma correspondem visualmente à base da prancha Rosto Geral Masculino e à metade inferior de base 1 + corte 1.",
+      "limitations": "Resolução muito pequena e apenas três quartos; não define perfil exato, vista posterior ou detalhes de união. Texto afirma olhos/nariz/orelhas/cabelo removidos, porém as saliências lateral e nasal permanecem. Não é uma superfície facial lisa nem sem características. A correspondência é visual; não houve comparação de malhas nem prova de recorte idêntico.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\bases masculina\\base masculina 1.jpeg",
+      "bytes": 18886,
+      "sha256": "531bc85599fba40efee0a7ce3b785e62a6e87f6919b3cd5b8ec8500f1864da81"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 2.png",
+      "role": "Forma facial masculina 2, variação de mandíbula afunilada",
+      "observations": "Inspeção direta: 1619 × 971, três quartos. Crânio superior largo, faces laterais marcadas, terço inferior afunilando para queixo relativamente estreito e longo. Crânio sem cabelo e órbitas vazias, mas sobrancelhas, boca, barba, pescoço, placa/bloco nasal e saliência lateral permanecem. A montagem base 2 + corte 1 apresenta o mesmo tema de rosto mais estreito no terço inferior; esta imagem detalha melhor a base.",
+      "limitations": "Uma única perspectiva não demonstra simetria, largura frontal real ou profundidade lateral; não há traseira da base. A diferença para a base 5 é graduada, não uma categoria geométrica nomeada pelo catálogo. A classificação como afunilada é descritiva. Facetas visíveis não provam contagem de polígonos, conectividade ou separação de barba/sobrancelhas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\bases masculina\\base masculina 2.png",
+      "bytes": 1119851,
+      "sha256": "47cbd89924179bd84df2f191b181b44c74e31246e84c95a875e9d93c68abb67e"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 3.png",
+      "role": "Forma facial masculina 3, variação de mandíbula larga e mais reta",
+      "observations": "Inspeção direta: 1628 × 966, três quartos. Terço inferior mais largo e horizontal que na base 2; queixo amplo e contorno mandibular com tendência retangular. Mantém a linguagem comum de crânio arredondado facetado, sobrancelhas grossas, órbitas vazias, bloco nasal, barba, boca de cantos baixos, saliência auricular e pescoço. Corresponde tematicamente ao rosto largo/baixo da montagem base 3 + corte 1.",
+      "limitations": "Sem frente nem perfil isolado dessa base; não é possível extrair cotas ou assegurar o mesmo crânio de outra variante. Barba ocupa o contorno inteiro da mandíbula e oculta a forma exata da pele sob ela. Aparência facetada e sombreamento não indicam a estrutura real de uma malha exportável.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\bases masculina\\base masculina 3.png",
+      "bytes": 1144762,
+      "sha256": "2affe60384f23eb85bfd3614e9b56390dc17e6b77c4ab0a834bad2e2c79ba340"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 4.png",
+      "role": "Forma facial masculina 4, variação mais cheia/arredondada",
+      "observations": "Inspeção direta: 1629 × 965, três quartos. Bochechas e mandíbula formam contorno cheio; queixo amplo e arredondado, sem o estreitamento pronunciado de 2/5. Conserva sobrancelhas, órbitas vazias, placa nasal, saliência lateral, boca, barba e pescoço. A barba exibe pequenas facetas/linhas muito mais densas que o crânio. A montagem base 4 + corte 1 confirma visualmente a intenção de face mais redonda e larga.",
+      "limitations": "Há só três quartos da base. O preenchimento da bochecha/barba é aparente e não mede volume ou espessura. A densidade de triângulos aparente na barba pode pertencer à imagem/material e não à malha; não usar como prova topológica. Nenhum desenho mostra como o cabelo 1 acompanha a variação do topo ou como olhos e nariz se ajustam.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\bases masculina\\base masculina 4.png",
+      "bytes": 1160967,
+      "sha256": "9f1d0d21a5b3a913edd5dc34ca796f021cba2727f9a9d87a4020158fdea932cb"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 5.png",
+      "role": "Forma facial masculina 5, variação estreita e alongada",
+      "observations": "Inspeção direta: 1619 × 971, três quartos. Maçã do rosto saliente, recuo visível abaixo dela e mandíbula convergente para queixo mais estreito/alongado. A parte superior arredondada se mantém semelhante à família; base tem sobrancelhas, barba, boca, órbitas, pescoço, bloco nasal e saliência lateral. A montagem base 5 + corte 1 enfatiza de frente o alongamento e a face estreita; relação visual coerente entre os dois arquivos.",
+      "limitations": "A distinção quantitativa em relação a 2 não é fornecida. Não há perfil/posterior específico nem escala comum certificada. Barba e sombra contribuem para a percepção de bochecha cavada, portanto não se pode inferir toda a anatomia subjacente. Os encaixes de cabelo, órbitas e nariz são apenas sugeridos pelo desenho.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\bases masculina\\base masculina 5.png",
+      "bytes": 1123687,
+      "sha256": "22c3ccf1824b749c1996daf656fac263a66090e32f4d194964e8aed26282cd44"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 6.png",
+      "role": "Forma facial masculina 6, variação de mandíbula robusta",
+      "observations": "Inspeção direta: 1639 × 959, três quartos. Terço inferior largo e robusto, queixo amplo e base mandibular quase horizontal; laterais menos afuniladas que 2/5. Retém as mesmas famílias de detalhes: barba, sobrancelhas, boca, pescoço, órbitas vazias, bloco nasal e peça/saliência auricular achatada. A montagem base 6 + corte 1 mostra frente de mandíbula pesada/larga, compatível com a leitura desta base.",
+      "limitations": "Diferenças para 3/4 concentram-se no contorno inferior e não têm nomes ou parâmetros explícitos; chamar de robusta é descrição visual. Vista única em três quartos, sem traseira, planta ou lateral isolada. Pescoço já incluído, sem linha de separação cabeça-pescoço demonstrada. Não prova intercâmbio sem ajuste com outros olhos/narizes/cabelos.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\bases masculina\\base masculina 6.png",
+      "bytes": 1130562,
+      "sha256": "aaf48d0b1934eac359290a5a7719de2de4d93bcdcb7e4b73f381afeee81a33e2"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/Padrao de mudanca de Rosto.jpeg",
+      "role": "Prancha conceitual masculina de vistas e decomposição modular",
+      "observations": "Inspeção direta: 1536 × 1024. Faixa superior mostra frente, lateral voltada à direita da imagem, costas e lateral voltada à esquerda; faixa inferior mostra cabeça em três quartos, cabelo/olhos/nariz/orelhas afastados e uma base em três quartos. Cabeça masculina de cabelo castanho curto em mechas pontudas, sobrancelhas escuras grossas, olhos semicerrados, barba e mandíbula larga/quadrada. A parte inferior do rosto é mais larga do que em Rosto Geral Masculino, apesar de a composição ser quase igual. A prancha nomeia base, cabelo, dois olhos, nariz e duas orelhas. A base representada retém sobrancelhas, boca, barba, pescoço, depressões orbitais, bloco nasal claro e saliências laterais achatadas na região das orelhas.",
+      "limitations": "O nome do arquivo sugere padrão de mudança de rosto, mas o conteúdo não é uma matriz de formas faciais: é uma única cabeça com componentes explodidos. O texto diz que orelhas e nariz foram removidos, mas ainda há formas nas respectivas regiões; podem ser suportes/zonas de encaixe, hipótese que a imagem não resolve. Não prova peças reais, topologia, espessura, escala, pivôs, identidade exata entre vistas nem encaixe universal. A própria legenda pede validar encaixes na malha 3D.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\Padrao de mudanca de Rosto.jpeg",
+      "bytes": 287134,
+      "sha256": "8ff71ebe6e8d2c6c7602e52fe703426758abb8e210de0567f2482ea230751cc7"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 1 + cabelo 1.jpeg",
+      "role": "Exemplo montado feminino 1 com corte 1",
+      "observations": "Inspeção direta: 358 × 457. Painel superior quase frontal, inferior da base em três quartos. Cabelo castanho assimétrico, mechas facetadas grossas e franja comprida à esquerda da imagem. Rosto de mandíbula suave e queixo pequeno, olhos semicerrados, sobrancelhas inclinadas, boca de cantos baixos; orelha visível à direita da imagem e outra região coberta pelo cabelo. A base inferior retém nariz, sobrancelhas, boca e pescoço e corresponde visualmente à base feminina 1.",
+      "limitations": "Franja oculta parte importante da lateral do crânio, testa e uma orelha; não é possível inspecionar todos os encontros do cabelo com a cabeça. Vistas diferentes entre montagem e base, sem perfil/posterior específico deste par. Pequena resolução limita detalhes; igualdade do corte entre as cinco montagens é uma intenção visual, não prova de um mesmo objeto 3D.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo feminino 1\\rosto 1 + cabelo 1.jpeg",
+      "bytes": 37402,
+      "sha256": "2d746c88c9d63a7e76174ae70d9a83dcdfbadec5e61446e6bb77408da49e96fb"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 2 + cabelo 1.jpeg",
+      "role": "Exemplo montado feminino 2 com corte 1",
+      "observations": "Inspeção direta: 349 × 439. Montagem quase frontal com mandíbula mais reta/larga que 1/4/5, cabelo assimétrico longo de um lado e base em três quartos abaixo. A franja cruza parte da testa; sobrancelhas, olhos semicerrados, nariz, boca e uma orelha estão legíveis. Base inferior contém nariz/sobrancelhas/boca/pescoço. Rótulos cabeça feminina 2, corte feminino 1 e padrão rosto 2 são internamente coerentes com base feminina 2.",
+      "limitations": "Não há lateral ou posterior dessa variante; cabelo oculta parte do perímetro facial e do crânio. A expressão mantém-se semelhante entre variantes, mas não há neutralização que isole estritamente só a forma. Não demonstra como reajustar cabelo, nariz e olhos ao trocar a base.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo feminino 1\\rosto 2 + cabelo 1.jpeg",
+      "bytes": 35839,
+      "sha256": "2501f04f9203dbcf0ac2029c1a67542e7be328c4e99a14658a3fdc1dd6f95006"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 3 + cabelo 1.jpeg",
+      "role": "Exemplo montado feminino 3 com corte 1",
+      "observations": "Inspeção direta: 342 × 435. Face mais cheia/redonda, bochechas amplas e queixo curto; montagem frontal/quase frontal sobre base em três quartos. O cabelo repete franja longa lateral e mechas castanhas; olhos semicerrados e boca de cantos baixos seguem a família. Base inferior preserva nariz, boca, sobrancelhas e pescoço. O contorno corresponde ao padrão de base feminina 3.",
+      "limitations": "A frontalidade aproximada não fornece vista ortogonal calibrada; não se podem derivar proporções métricas por simples medição de pixels. Sem perfis/posterior e sem cabelo isolado nesta imagem. A aparência redonda não informa rig, deformação de expressão nem topologia de bochechas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo feminino 1\\rosto 3 + cabelo 1.jpeg",
+      "bytes": 35458,
+      "sha256": "1cbd555d318ec32aa48d9e3cce5afad3fedafc2cd02fd8adc33a9aac03b5c1ae"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 4 + cabelo 1.jpeg",
+      "role": "Exemplo montado feminino 4 com corte 1",
+      "observations": "Inspeção direta: 369 × 444. Montagem quase frontal com terço inferior alongado, bochechas estreitas e queixo fino/pontudo; base em três quartos abaixo. Mesma família de cabelo assimétrico em mechas grandes, uma orelha exposta e expressão de olhos semicerrados/boca inclinada para baixo. Base inferior retém nariz, sobrancelhas, boca e pescoço; forma alinhada visualmente à base feminina 4.",
+      "limitations": "Sem perfil/posterior específicos. Franja cobre partes do lado oposto e impede inspeção completa do cabelo em torno das orelhas. Rostos 4/5 têm queixo fino, mas a imagem não define limites ou valores para tornar essas famílias tecnicamente distintas. Restos de bordas de painel adjacente não constituem uma vista adicional utilizável.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo feminino 1\\rosto 4 + cabelo 1.jpeg",
+      "bytes": 38475,
+      "sha256": "5bc849f6225beb6030a5b55c9e345477d230fa92176a1efe9409ba3e4351ddd3"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 5 + cabelo 1.jpeg",
+      "role": "Exemplo montado feminino 5 com corte 1",
+      "observations": "Inspeção direta: 343 × 441. Rosto de maçãs relativamente largas que converge para queixo fino/curto; desenho mais compacto que a montagem 4. Montagem quase frontal com cabelo lateral castanho, franja extensa, olhos semicerrados e uma orelha exposta; base em três quartos abaixo. A base inferior tem órbitas vazias mas mantém nariz, sobrancelhas, boca e pescoço, coerente visualmente com base feminina 5.",
+      "limitations": "Não mostra perfil ou posterior próprios; topo/lateral do crânio ficam ocultos na montagem. Não estabelece dimensões nem comportamento de encaixe do corte 1 sobre a forma mais afunilada. O catálogo mostra uma combinação por forma facial neste subgrupo, não todas as combinações entre olhos, nariz, cabelos e bases.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo feminino 1\\rosto 5 + cabelo 1.jpeg",
+      "bytes": 35806,
+      "sha256": "4949afabba95a7a03a0724a165a863110325f1fc2020ec73d0af405cb29e78e8"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 1 + corte 1.jpeg",
+      "role": "Exemplo montado masculino 1 com corte 1 e base correspondente",
+      "observations": "Inspeção direta: 262 × 336. Painel superior frontal com cabelo curto castanho em mechas pontudas, orelhas, olhos semicerrados, nariz e barba; inferior mostra base sem cabelo/olhos em três quartos. Forma facial equilibrada, queixo moderadamente afunilado. O cabelo e expressão acompanham a família dos seis exemplos masculinos. Os rótulos ligam cabeça masculina 1/corte masculino 1 ao padrão rosto 1, e a base inferior é visualmente compatível com base masculina 1.",
+      "limitations": "Arquivo muito pequeno: cada cabeça ocupa apenas parte dos 336 pixels de altura; não permite detalhes de união ou ajuste. Vistas são diferentes entre base e montagem, portanto não constituem antes/depois no mesmo ângulo. Não há perfis nem posterior dessa combinação no arquivo; usar pranchas gerais somente como apoio visual da família, sem provar identidade de malha.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo masculino 1\\base 1 + corte 1.jpeg",
+      "bytes": 20059,
+      "sha256": "1aa0321530c3f4035fa23b86f59b567cf8d4a62d15e8008039a77104247a3070"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 2 + corte 1.jpeg",
+      "role": "Exemplo montado masculino 2 com corte 1",
+      "observations": "Inspeção direta: 252 × 336. Montagem frontal e base em três quartos. Face relativamente estreita com queixo afunilado, comparada a 3/4/6. Repete o cabelo curto pontudo do corte 1, sobrancelhas fortes, olhos semicerrados, barba e orelhas visíveis; a base inferior mantém sobrancelhas/barba/boca e blocos nasal/lateral. Rótulos e silhueta associam esta montagem à base masculina 2.",
+      "limitations": "Resolução muito reduzida e ângulos distintos entre painéis; não mede a mudança de crânio, distância dos olhos ou escala do cabelo. Não mostra interior do cabelo nem união nariz/rosto; repetição do estilo do corte não prova geometria idêntica. Sem perfis e posterior específicos.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo masculino 1\\base 2 + corte 1.jpeg",
+      "bytes": 19168,
+      "sha256": "1b9b93285d575de6d282099f97db3b985407bd5e8d42e01233770372f6e17210"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 3 + corte 1.jpeg",
+      "role": "Exemplo montado masculino 3 com corte 1",
+      "observations": "Inspeção direta: 265 × 336. Cabeça frontal com mandíbula larga e inferior mais horizontal; embaixo, base em três quartos com olhos/cabelo ausentes. Cabelo castanho curto em pontas e expressão acompanham as demais montagens; base inferior combina visualmente com base masculina 3. Rodapé legível afirma 'Um corte. Três rostos. Mesmo encaixe.', mas o próprio arquivo mostra um único par de cabeça e base.",
+      "limitations": "Rodapé pode ter vindo de uma prancha maior; não demonstra três rostos dentro desta imagem e não prova encaixe geométrico. Baixa resolução e perspectiva diferente dos dois painéis impedem aferição de correspondência exata. Não apresenta perfis/posterior da variante 3.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo masculino 1\\base 3 + corte 1.jpeg",
+      "bytes": 19934,
+      "sha256": "ebc541f194c04e93716b4aa1a4b4828bbca3022dcd2878d20442b84737ccb19f"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 4 + corte 1.jpeg",
+      "role": "Exemplo montado masculino 4 com corte 1",
+      "observations": "Inspeção direta: 506 × 690. Painel frontal mostra face mais cheia/arredondada, bochechas amplas e queixo largo curvo; painel inferior traz base em três quartos. Cabelo curto pontudo, olhos semicerrados, nariz, orelhas e barba acompanham a família masculina 1. O contorno mais arredondado corresponde à base masculina 4. Na base inferior continuam sobrancelhas, barba, boca, pescoço, placa nasal e volume lateral auricular.",
+      "limitations": "Sem perfil/posterior próprios e sem vista do cabelo separado. A base inferior continua expressiva e não é neutra. O cabelo parece da mesma família, mas a prancha não permite provar que foi usado o mesmo objeto com dimensões preservadas. Bordas recortadas na parte superior sugerem extração de catálogo; não se dispõe da prancha completa neste arquivo.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo masculino 1\\base 4 + corte 1.jpeg",
+      "bytes": 62229,
+      "sha256": "02029ab80d43041c5c67025ef09957c5b6814489f667bd1fb13ea91460a6b9c0"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 5 + corte 1.jpeg",
+      "role": "Exemplo montado masculino 5 com corte 1",
+      "observations": "Inspeção direta: 531 × 708. Frente alongada, bochechas mais estreitas sob as maçãs do rosto e queixo estreito; base correspondente em três quartos abaixo. Cabelo em mechas pontudas mantém a linguagem do corte 1; barba acentua a silhueta estreita. Rótulos e contorno correspondem à base masculina 5. As duas imagens incluem pescoço; a base inferior retém os detalhes comuns de boca/barba/sobrancelhas e blocos nasal/lateral.",
+      "limitations": "Cabelo e rosto foram apresentados montados sem descrever adaptações. Não é demonstração de montagem automatizada sem ajustes. Não há perfis ou posterior da variante. A extensão da barba pode afetar leitura do queixo. Restos de divisórias de outros painéis aparecem nas bordas e não são referências adicionais completas.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo masculino 1\\base 5 + corte 1.jpeg",
+      "bytes": 65911,
+      "sha256": "aae7710515362a6a7f1cbae7916bf9180c877f35987293fee3799ab2746514fd"
+    },
+    {
+      "path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 6 + corte 1.jpeg",
+      "role": "Exemplo montado masculino 6 com corte 1",
+      "observations": "Inspeção direta: 522 × 695. Cabeça frontal com mandíbula robusta/quadrada, queixo amplo e pescoço largo; base em três quartos embaixo. Mantém corte curto pontudo, olhos semicerrados, sobrancelhas grossas e barba; base inferior é visualmente compatível com base masculina 6. Rodapé afirma 'Um corte. Três rostos bem distintos. Mesmo encaixe.', embora esta imagem contenha apenas a variante 6.",
+      "limitations": "A afirmação de mesmo encaixe é texto da referência, não validação de uma interface 3D. Sem perfis/posterior próprios. Os dois painéis têm ângulos diferentes, impossibilitando sobreposição direta. A variedade do terço inferior é clara, mas o topo do crânio fica oculto na montagem e não permite concluir que seja invariável.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Cabeça & Rosto\\Tipo de rosto\\rosto  + cabelo masculino 1\\base 6 + corte 1.jpeg",
+      "bytes": 67750,
+      "sha256": "ccac65351e49c89048a42e389e69148016f4b3e3f72e85076914718a4981204a"
+    },
+    {
+      "path": "Exemplo Geral/FemaleExemple.jpeg",
+      "role": "Contexto de personagem e módulos do corpo",
+      "observations": "Prancha feminina completa: três módulos grandes — cabeça com cabelo e pescoço; superior com torso, mangas, braços e mãos; inferior com quadril, pernas e pés. Mostra separação frontal, traseira e montagem em três quartos. Estilo estilizado facetado, cabeça grande e roupas de mecânica. Junções indicadas no pescoço e cintura; é contexto para a evolução ao corpo.",
+      "limitations": "Prancha de intenção visual: não define medidas, bordas3D, rigging nem topologia. Oferece traseira da cabeça, mas não decompõe todos os componentes faciais. Corpo pertence a etapa futura.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Exemplo Geral\\FemaleExemple.jpeg",
+      "bytes": 295739,
+      "sha256": "322a788e085fec77e979b1ae0435b82d41f78cd0077ddfd98c985b61b3f81abd"
+    },
+    {
+      "path": "Exemplo Geral/MaleExemple.jpeg",
+      "role": "Contexto de personagem e módulos do corpo",
+      "observations": "Prancha masculina completa: cabeça com cabelo e pescoço; superior com torso, mangas, braços e mãos; inferior com quadril, pernas e pés. Frente/traseira separadas e montagem em três quartos. Barba e sobrancelhas definem expressão; luva em uma mão e tatuagens pertencem ao conjunto superior ilustrado. Pescoço/cintura são fronteiras propostas.",
+      "limitations": "Prancha de intenção visual: não define medidas, bordas3D, rigging nem topologia. Oferece traseira da cabeça, mas não decompõe todos os componentes faciais. Corpo pertence a etapa futura.",
+      "absolute_path": "C:\\Users\\xandao\\Desktop\\Trabalho\\projetos pessoais\\RCL\\modelos 3d\\personagem base\\Imagem base\\Exemplo Geral\\MaleExemple.jpeg",
+      "bytes": 281684,
+      "sha256": "6a77475f0d7431a91de6a0046823c044882c2d55bad9dff5334c8320bc1933ae"
+    }
+  ]
+}

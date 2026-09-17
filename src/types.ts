@@ -5,6 +5,8 @@ export interface PartMeta {
   fileName: string;
   fileSize: number;
   addedAt: number;
+  /** Peça incluída no projeto, disponível sem importação manual. */
+  bundled?: boolean;
 }
 
 export interface PartBlob {

@@ -99,6 +99,24 @@ export class SceneManager {
     this.grid.visible = visible;
   }
 
+  /** Só a câmera oculta o cabelo; o módulo continua montado e exportável. */
+  setHairPreviewVisible(visible: boolean): void {
+    if (visible) this.camera.layers.enable(1);
+    else this.camera.layers.disable(1);
+  }
+
+  setView(view: 'front' | 'side' | 'threeQuarter' | 'back'): void {
+    const distance = this.camera.position.distanceTo(this.controls.target);
+    const directions = {
+      front: new Vector3(0, 0, 1),
+      side: new Vector3(1, 0, 0),
+      threeQuarter: new Vector3(.55, .13, 1).normalize(),
+      back: new Vector3(0, 0, -1),
+    };
+    this.camera.position.copy(this.controls.target).addScaledVector(directions[view], distance);
+    this.controls.update();
+  }
+
   /** Substitui o conteúdo de um slot sem tocar nos demais. */
   setSlotObject(slotId: string, object: Object3D | null): void {
     let slot = this.slots.get(slotId);
@@ -119,6 +137,7 @@ export class SceneManager {
       this.slots.set(slotId, slot);
     }
     slot.clear();
+    if (slotId === 'hair') object.traverse((node) => node.layers.set(1));
     slot.add(object);
   }
 

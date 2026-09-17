@@ -5,14 +5,23 @@
 **Jogo de destino:** Real Car Lifestyle (RCL)  
 **Natureza deste documento:** visão e escopo definidos pelo criador do projeto. Descreve o que será construído e distingue essa intenção do que já existe no código.
 
+## Atualização de direção — 17/09/2026
+
+O projeto é o **3DC Lab v1**: laboratório que documenta a criação dos personagens e gerador v1 dos GLBs destinados ao jogo 3D Real Car Lifestyle. Referências, conceitos, escolhas de modelagem, scripts, cenas, imagens de revisão e verificações devem ser rastreáveis em commits, comentários de código e arquivos Markdown. O histórico faz parte do produto do laboratório.
+
+O experimento inicial de base + cabelo avançou para cinco bases femininas + Corte 1 + Olho 1 + Nariz 1, com sobrancelhas, boca e orelhas fixas em cada base. Continua dentro da v1 do laboratório. Os nomes `conjunto-feminino-v1/v2` identificam revisões dos modelos. Corpo, rig, animação e randomização permanecem futuros; importação no jogo não foi comprovada.
+
+As seções abaixo preservam a formulação inicial de 16/09/2026. As exclusões de olhos/nariz no **primeiro experimento** são históricas, não restrições do escopo atual. Estado vigente: [README](README.md), [processo](docs/PROCESSO_3DC_LAB_V1.md) e [contrato](docs/referencias-rcl/Contrato_pecas_interfaces_RCL.md).
+
 ## 1. Para que existe o 3DC
 
 O **3DC será o protótipo do menu de criação de personagens do Real Car Lifestyle e também o gerador de personagens em GLB para o jogo**.
 
-O projeto reúne dois usos que devem evoluir juntos:
+O projeto reúne usos que devem evoluir juntos:
 
 1. **Criação e estudo do personagem:** experimentar bases, trocar componentes e avaliar o resultado visual. Esse trabalho servirá de base para o menu de criação do jogo.
 2. **Produção de personagens:** gerar combinações utilizáveis e seus arquivos GLB. Futuramente, um randomizador usará os módulos para gerar a base dos **50 personagens e dos 200 NPCs da cidade**.
+3. **Documentação do processo:** conservar o motivo de cada decisão, suas referências, a versão das peças e o resultado dos testes. O jogo deve receber arquivos acompanhados da sua origem e dos limites conhecidos.
 
 Essas quantidades representam o objetivo informado para a produção. Os papéis dos 50 personagens, os critérios de distribuição e as regras de repetição do randomizador ainda não foram definidos.
 

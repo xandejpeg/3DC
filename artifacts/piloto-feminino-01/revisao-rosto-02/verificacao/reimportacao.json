@@ -1,0 +1,239 @@
+{
+  "scope": [
+    "base-f-01",
+    "hair-f-01"
+  ],
+  "comparison_tolerance_m": 1e-06,
+  "checks": {
+    "individuals": {
+      "base-f-01": {
+        "vertices_source": 2961,
+        "vertices_reimport": 2961,
+        "triangles_source": 5918,
+        "triangles_reimport": 5918,
+        "max_vertex_distance_m": 0.0,
+        "triangle_geometry_equal_1um": true,
+        "materials_equal": true,
+        "world_transform": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "hair-f-01": {
+        "vertices_source": 2962,
+        "vertices_reimport": 13120,
+        "triangles_source": 5776,
+        "triangles_reimport": 5776,
+        "max_vertex_distance_m": 0.0,
+        "triangle_geometry_equal_1um": true,
+        "materials_equal": true,
+        "world_transform": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_hair_triangle_intersections": 0
+    },
+    "assembly": {
+      "base-f-01": {
+        "vertices_source": 2961,
+        "vertices_reimport": 2961,
+        "triangles_source": 5918,
+        "triangles_reimport": 5918,
+        "max_vertex_distance_m": 0.0,
+        "triangle_geometry_equal_1um": true,
+        "materials_equal": true,
+        "world_transform": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "hair-f-01": {
+        "vertices_source": 2962,
+        "vertices_reimport": 13120,
+        "triangles_source": 5776,
+        "triangles_reimport": 5776,
+        "max_vertex_distance_m": 0.0,
+        "triangle_geometry_equal_1um": true,
+        "materials_equal": true,
+        "world_transform": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_hair_triangle_intersections": 0
+    }
+  },
+  "files": {
+    "base-feminina-01.glb": {
+      "bytes": 108888,
+      "sha256": "905af413df2312122d3059ff0f2d37828defeff4f20a5156d6f654cee48792d9"
+    },
+    "corte-feminino-01.glb": {
+      "bytes": 354936,
+      "sha256": "1071522372dc4bdf61a6a96bab51ad6d95d586c2273b1358e1130a8c362c5c3c"
+    },
+    "montagem-feminina-01.glb": {
+      "bytes": 462920,
+      "sha256": "b5c51868058cd767afe5f91b99d2a1479cbae466907dda93b6b55117bc03fb18"
+    }
+  },
+  "measurements": {
+    "chin_z_m": 0.07899999618530273,
+    "crown_z_m": 0.3050000071525574,
+    "head_height_m": 0.22600001096725464,
+    "neck_cut_z_m": 0
+  },
+  "source_meshes": {
+    "base-f-01": {
+      "vertices": 2961,
+      "triangles": 5918,
+      "boundary_edges": 0,
+      "non_manifold_edges": 0,
+      "vertex_groups": [
+        "INTERFACE_ORBITAL_L_PROVISORIA",
+        "INTERFACE_ORBITAL_R_PROVISORIA",
+        "INTERFACE_NASAL_PROVISORIA",
+        "COURO_CABELUDO",
+        "PESCOCO",
+        "CORTE_PESCOCO_PROVISORIO",
+        "REV02_INFLUENCIA_ROSTO_PESCOCO"
+      ]
+    },
+    "hair-f-01": {
+      "vertices": 2962,
+      "triangles": 5776,
+      "boundary_edges": 0,
+      "non_manifold_edges": 0,
+      "vertex_groups": [
+        "CALOTA_INTERNA_EDITAVEL",
+        "CALOTA_EXTERNA",
+        "MECHA_NUCA_00",
+        "MECHA_NUCA_01",
+        "MECHA_NUCA_02",
+        "MECHA_NUCA_03",
+        "MECHA_NUCA_04",
+        "MECHA_NUCA_05",
+        "MECHA_NUCA_06",
+        "MECHA_NUCA_07",
+        "MECHA_NUCA_08",
+        "MECHA_NUCA_09",
+        "MECHA_NUCA_10",
+        "MECHA_NUCA_11",
+        "MECHA_NUCA_12",
+        "MECHA_NUCA_13",
+        "MECHA_NUCA_14",
+        "MECHA_COROA_00",
+        "MECHA_COROA_01",
+        "MECHA_COROA_02",
+        "MECHA_COROA_03",
+        "MECHA_COROA_04",
+        "MECHA_COROA_05",
+        "MECHA_COROA_06",
+        "MECHA_COROA_07",
+        "MECHA_COROA_08",
+        "MECHA_COROA_09",
+        "MECHA_COROA_10",
+        "FRANJA_01",
+        "FRANJA_02",
+        "FRANJA_03",
+        "FRANJA_04",
+        "FRANJA_05",
+        "TOPO_01",
+        "TOPO_02",
+        "DIREITA_01",
+        "DIREITA_02",
+        "DIREITA_03"
+      ]
+    }
+  },
+  "passed": true
+}

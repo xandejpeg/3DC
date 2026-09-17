@@ -1,0 +1,706 @@
+{
+  "root": ".",
+  "count": 100,
+  "files": [
+    {
+      "id": "R001",
+      "path": "originais/R001.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (1) - exemplos femininos.png",
+      "sha256": "e29ac43d910678664651453b676467a5fecdc9eadf1e8810c8be582d01658305",
+      "bytes": 1625984
+    },
+    {
+      "id": "R002",
+      "path": "originais/R002.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (2) - exemplos femininos.png",
+      "sha256": "cd9975b185d8842ef075c4e6fca4739717ab552ae8cbb5bafff14fc0370291d0",
+      "bytes": 1676285
+    },
+    {
+      "id": "R003",
+      "path": "originais/R003.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (3) - exemplos femininos.png",
+      "sha256": "b1e6cc61926717121b2e43c45344d9cfdff3fc1e043606037d0d6b10f8b584c8",
+      "bytes": 1665440
+    },
+    {
+      "id": "R004",
+      "path": "originais/R004.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (4) - exemplos femininos.png",
+      "sha256": "8b2cae42ebe7de4e5709a06208455a6216ce8084f149ff3dbae765f7c010d1a5",
+      "bytes": 1685228
+    },
+    {
+      "id": "R005",
+      "path": "originais/R005.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (5) - exemplos femininos.png",
+      "sha256": "769af85599eced44b09f3194ae482d4a903000ed7d87d57eb3a896910996d6be",
+      "bytes": 1705202
+    },
+    {
+      "id": "R006",
+      "path": "originais/R006.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (6) - exemplos femininos.png",
+      "sha256": "b19f9bd17e68412b60e625cf249be7d7c7ede844fde7d9a32e93ee13ddb527b6",
+      "bytes": 1654397
+    },
+    {
+      "id": "R007",
+      "path": "originais/R007.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (7) - exemplos femininos.png",
+      "sha256": "d898df85aca5683b79f8d76f8d7b6f96f80588dc542c6feebac4a434c656154e",
+      "bytes": 1730250
+    },
+    {
+      "id": "R008",
+      "path": "originais/R008.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Femininas — Olhos, Rostos e Cabelos/olho (8) - exemplos femininos.png",
+      "sha256": "d2615ec8b757bd7f565dc3d311d51c07a1159e000d3acf4f2916eb4868f0bf05",
+      "bytes": 1709945
+    },
+    {
+      "id": "R009",
+      "path": "originais/R009.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 1.png",
+      "sha256": "d3676769a5b5b643858a5c36f57c097fb6bd4fa47e94a57b443f4f1d9caba7b0",
+      "bytes": 1638998
+    },
+    {
+      "id": "R010",
+      "path": "originais/R010.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 2.png",
+      "sha256": "87ef932b7fda538c65d4f64adcd66c0a1c9d5edffa9db157d3fe0d26c87597f2",
+      "bytes": 1623045
+    },
+    {
+      "id": "R011",
+      "path": "originais/R011.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 3.png",
+      "sha256": "94e370dd96f4bdb46c09cd8f7ecb80fe3978241a4a3ae42ddfe680462bdf3750",
+      "bytes": 1645990
+    },
+    {
+      "id": "R012",
+      "path": "originais/R012.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 4.png",
+      "sha256": "36e92d564bd38cca768011d6ee54d807c41f1a0fbe8de102e9eead45166e7c5f",
+      "bytes": 1686763
+    },
+    {
+      "id": "R013",
+      "path": "originais/R013.png",
+      "original_path": "Cabeça & Rosto/Combinações de Cabeças/Combinações de Cabeças Masculinas Olhos,Rostos e Cabelos/Combinação 5.png",
+      "sha256": "b69e4529ed6917154dda2d9e4d5da97d9641f1a1d820720d110abdb137217d82",
+      "bytes": 1694305
+    },
+    {
+      "id": "R014",
+      "path": "originais/R014.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao feminina rostos e narizes/Narizes 1, 2 e 3.png",
+      "sha256": "a854e90b4038878dfdeb8bb00ab9968dea5b0f9aaaa8254ab5fd1c7fe0b705a4",
+      "bytes": 1601421
+    },
+    {
+      "id": "R015",
+      "path": "originais/R015.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao feminina rostos e narizes/Narizes 4, 5 e 6 - Rostos 4, 5 e 6 - Cabelos 6, 8 e 9.png",
+      "sha256": "66dff4e31daafd3801cfbfc1f76e0719e105bfde78d9bab9025f0cdec05897b5",
+      "bytes": 1623957
+    },
+    {
+      "id": "R016",
+      "path": "originais/R016.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao feminina rostos e narizes/Narizes 4, 5 e 6.png",
+      "sha256": "352331e0bcf56bf781f53ad2020f02cd7ee3257df7316bd10692ac27970fecd2",
+      "bytes": 1626397
+    },
+    {
+      "id": "R017",
+      "path": "originais/R017.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao masculina rostos e narizes/Narizes 1, 2 e 3.png",
+      "sha256": "e424f6517c63595f85f480b9a08c9410d1f0493d05602e9af8dc96c2f80f7a69",
+      "bytes": 1626757
+    },
+    {
+      "id": "R018",
+      "path": "originais/R018.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/Combinacao masculina rostos e narizes/Narizes 4, 5 e 6.png",
+      "sha256": "ebcad90bcb43f0562ca6374b213d65d223e11b35295ce4a580c6044b7defbb06",
+      "bytes": 1624098
+    },
+    {
+      "id": "R019",
+      "path": "originais/R019.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 1.png",
+      "sha256": "051dd6a3025aefb87a60a876bb88825585cc2fa7e3dcb1bd2964ee946e292c3e",
+      "bytes": 152910
+    },
+    {
+      "id": "R020",
+      "path": "originais/R020.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 2.png",
+      "sha256": "99e2931237a8b2000bb934c77ec4356180ea3d59ab4137f6bcfd6c21a9b229dd",
+      "bytes": 170050
+    },
+    {
+      "id": "R021",
+      "path": "originais/R021.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 3.png",
+      "sha256": "6439d9307f9b15171907a9ab3e0b9a388efe953731247dc9b0176b316869d3eb",
+      "bytes": 149107
+    },
+    {
+      "id": "R022",
+      "path": "originais/R022.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 4.png",
+      "sha256": "3568e4985520b29d28b4746161ca3f0bc80e1541e62d2f4cf9d9b979e654c621",
+      "bytes": 155415
+    },
+    {
+      "id": "R023",
+      "path": "originais/R023.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 5.png",
+      "sha256": "db5454e14712dce59cf53937748daf7d427fbce46e7930b312314fd6230abe00",
+      "bytes": 163459
+    },
+    {
+      "id": "R024",
+      "path": "originais/R024.png",
+      "original_path": "Cabeça & Rosto/Narizes — Módulos e Combinações/narizes/nariz 6.png",
+      "sha256": "912859d77f61e3514783e10f67ddc6cd2ac25d49022d91688430333305506fd4",
+      "bytes": 174486
+    },
+    {
+      "id": "R025",
+      "path": "originais/R025.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (1) - exemplos.png",
+      "sha256": "ed311ff6271118d9003170ce1daf69036c07b1011ab9c1467774aa2ed0851a1e",
+      "bytes": 1715737
+    },
+    {
+      "id": "R026",
+      "path": "originais/R026.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (2) - exemplos.png",
+      "sha256": "18f0cc4cfa67dd476dac68b611fceebc66a8079d098a41defa5e7f4809b3af25",
+      "bytes": 1678524
+    },
+    {
+      "id": "R027",
+      "path": "originais/R027.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (3) - exemplos.png",
+      "sha256": "207d14e5dfa3cd368dde70cb221552ca8d6ccf499d48cd19a91fce2a0dd15d91",
+      "bytes": 1604352
+    },
+    {
+      "id": "R028",
+      "path": "originais/R028.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (4) - exemplos.png",
+      "sha256": "972067970060f34ab3295ee44f994f4c527ccca542a464c15f4b13149cc356b9",
+      "bytes": 1612202
+    },
+    {
+      "id": "R029",
+      "path": "originais/R029.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (5) - exemplos.png",
+      "sha256": "e9f2834caf1252bb26a0ceed429d86ca64676b9b7e6ba2d7ccb44df7e9f341f5",
+      "bytes": 1617533
+    },
+    {
+      "id": "R030",
+      "path": "originais/R030.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (6) - exemplos.png",
+      "sha256": "fb93f9d21b049b7b789fcbc960ba59639c255b5309b85395ab5efeac2062b344",
+      "bytes": 1630417
+    },
+    {
+      "id": "R031",
+      "path": "originais/R031.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (7) - exemplos.png",
+      "sha256": "5e3aae707991f8aa225896bc233241ed4e9635fc411631f4938cc7aff9ab98f8",
+      "bytes": 1652791
+    },
+    {
+      "id": "R032",
+      "path": "originais/R032.png",
+      "original_path": "Cabeça & Rosto/Olhos/exemplos masculinos de olhos em diferentes cabelos/olho (8) - exemplos.png",
+      "sha256": "7feacb68b935f83f79714023550ab03ae2a0736ee77f370f4ec0e7839c5144d6",
+      "bytes": 1702543
+    },
+    {
+      "id": "R033",
+      "path": "originais/R033.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (1) - marrom.png",
+      "sha256": "356f1cb079ac1a82e786d8adde4d95e5ff6171b5c5a18dea9305d989c3776ad2",
+      "bytes": 1651070
+    },
+    {
+      "id": "R034",
+      "path": "originais/R034.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (2) - verde.png",
+      "sha256": "651107137df13107ca277beb2704fdf9e41d517053cb6ba23b1eee4687376429",
+      "bytes": 1615812
+    },
+    {
+      "id": "R035",
+      "path": "originais/R035.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (3) - preto.png",
+      "sha256": "79747f40ddc819dc34f9d2cfde250fd85176061c8a9d15fd9377d982599b3958",
+      "bytes": 1623933
+    },
+    {
+      "id": "R036",
+      "path": "originais/R036.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (4) - azul.png",
+      "sha256": "0922fa364c35875ea8c247b5ee91a5a803b58365c77eaf716d3785514638dd9e",
+      "bytes": 1636823
+    },
+    {
+      "id": "R037",
+      "path": "originais/R037.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (5) - marrom.png",
+      "sha256": "03808e65cfdb56d93be2f4f2cea877e5d8790b26c92ec17207a7f6ff5fd6d528",
+      "bytes": 1622580
+    },
+    {
+      "id": "R038",
+      "path": "originais/R038.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (6) - marrom.png",
+      "sha256": "45c9bb240c6ffa235aa69ced7d7fc8c18a5b8af1e218d1b5201346b8f6f1edfb",
+      "bytes": 1677136
+    },
+    {
+      "id": "R039",
+      "path": "originais/R039.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (7) - azul.png",
+      "sha256": "dd2b8e9dcfc544dbe5623883cdee47cbf9e8bb9b3913eb57cf5ea84c587f3244",
+      "bytes": 1674319
+    },
+    {
+      "id": "R040",
+      "path": "originais/R040.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Femininos — Rosto 1 e Corte 1/olho (8) - azul.png",
+      "sha256": "2064296c15d2c5143c10c5fd8628381ee24fad91c04ccae62eaa96ed1c3926c8",
+      "bytes": 1634969
+    },
+    {
+      "id": "R041",
+      "path": "originais/R041.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (1) - marrom.png",
+      "sha256": "42657c01523556b9937131c2fc8eda3c86d37e7e89a37c614894f18d3ef6a3a1",
+      "bytes": 1622058
+    },
+    {
+      "id": "R042",
+      "path": "originais/R042.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (2) - verde.png",
+      "sha256": "2897a4c14aec249647c1b9f47a41d5bbb7f915a3d013c675fbbf2255569bf62e",
+      "bytes": 1612372
+    },
+    {
+      "id": "R043",
+      "path": "originais/R043.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (3) - preto.png",
+      "sha256": "ff5e83be495675352e8fb50c91163edc1ea8dedd9d7a18afab65f065a5ed6924",
+      "bytes": 1608138
+    },
+    {
+      "id": "R044",
+      "path": "originais/R044.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (4) - azul.png",
+      "sha256": "281ea216fc3f1479473fcbf3f1a01afabfbe99b8f71e04cd610be44a42374bd4",
+      "bytes": 1616242
+    },
+    {
+      "id": "R045",
+      "path": "originais/R045.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (5) - marrom.png",
+      "sha256": "ad9835f575a0342e97c81fced02d78a24b96e74541837324285ecfd3bb240e77",
+      "bytes": 1632590
+    },
+    {
+      "id": "R046",
+      "path": "originais/R046.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (6) - marrom.png",
+      "sha256": "f69ddf9c08b930bfddc84d3a6de9b7c41bd3a2a5a305d617aa47f3b2a72f0f64",
+      "bytes": 1676352
+    },
+    {
+      "id": "R047",
+      "path": "originais/R047.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (7) - azul.png",
+      "sha256": "a1e8a634774ae777574aea21a8aac44b1ac8f2dbd9ef8b2fedd99df58ad83c4a",
+      "bytes": 1655353
+    },
+    {
+      "id": "R048",
+      "path": "originais/R048.png",
+      "original_path": "Cabeça & Rosto/Olhos/Padrões de Olhos Masculino — Rosto 1 e Corte 1/olho (8) - azul.png",
+      "sha256": "d4d15006812b507fdd42403b43366d40ddf24311b16829f3e5cf9cf93837a8a9",
+      "bytes": 1628547
+    },
+    {
+      "id": "R049",
+      "path": "originais/R049.jpeg",
+      "original_path": "Cabeça & Rosto/Rosto Geral/Rosto Geral Feminino.jpeg",
+      "sha256": "97c668b9d59691f290e5cef63436c1f5f6a2711eb113e0f404d9f8f16a81f2a1",
+      "bytes": 290174
+    },
+    {
+      "id": "R050",
+      "path": "originais/R050.jpeg",
+      "original_path": "Cabeça & Rosto/Rosto Geral/Rosto Geral Masculino.jpeg",
+      "sha256": "6f4ab9cc7c15fe30d8c3db572920a63e05b3083165ccd7748e23a9260afe6b4e",
+      "bytes": 283850
+    },
+    {
+      "id": "R051",
+      "path": "originais/R051.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Padrao de mudanca de cabelo.jpeg",
+      "sha256": "75e29b91a1077b1854539fd8d27c71d5d30e9074ef8465118c6232a94e64aa87",
+      "bytes": 291586
+    },
+    {
+      "id": "R052",
+      "path": "originais/R052.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 1 - Corte 1.jpeg",
+      "sha256": "0104fb00f9fdc3a31046da588e84d984f881351b148196d0f05338f2ba3b15f0",
+      "bytes": 19910
+    },
+    {
+      "id": "R053",
+      "path": "originais/R053.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 2 - Corte 2.jpeg",
+      "sha256": "c26545dfbd048e3c7c02b3d90a94108e389eecc893b2adbe12429f2da41fb548",
+      "bytes": 20589
+    },
+    {
+      "id": "R054",
+      "path": "originais/R054.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 3 - Corte 3.jpeg",
+      "sha256": "d402263fbbc77018905bd0b4ddfa1f42186ddb3e2680ff83bcc57e2a2c800d56",
+      "bytes": 20667
+    },
+    {
+      "id": "R055",
+      "path": "originais/R055.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 4 - Corte 4.jpeg",
+      "sha256": "1f215307d2911eb6bfdbf7372c61dc7ce6b8e1355aa4b06153cd76658bb06173",
+      "bytes": 16236
+    },
+    {
+      "id": "R056",
+      "path": "originais/R056.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 5 - Corte 5.jpeg",
+      "sha256": "04a621f320e2b41ba1b5dc28a7d7e128fd1ea53560b492faabf7375595644a95",
+      "bytes": 18349
+    },
+    {
+      "id": "R057",
+      "path": "originais/R057.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 6 - Corte 6.jpeg",
+      "sha256": "936184e0d301ab6f93f49f37d396432b75190edf8b4cc61299c66fb7f1c4fe5b",
+      "bytes": 18181
+    },
+    {
+      "id": "R058",
+      "path": "originais/R058.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 7 - Corte 7.jpeg",
+      "sha256": "4e0dccfccd00bf01e906b052b3ee656b7e86d0ea8da3bb4094c68d3103616fa5",
+      "bytes": 16601
+    },
+    {
+      "id": "R059",
+      "path": "originais/R059.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 8 - Corte 8.jpeg",
+      "sha256": "579142e2860d0822951ce5aaaf416680358b7bd3f6b3cb18a56b6870ec1f665f",
+      "bytes": 19767
+    },
+    {
+      "id": "R060",
+      "path": "originais/R060.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 9 - Corte 9.jpeg",
+      "sha256": "cb0840f49fb43aa033af003473c6081326c9a4f318c7470cbee5b57f319e9cd3",
+      "bytes": 20159
+    },
+    {
+      "id": "R061",
+      "path": "originais/R061.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 10 - Corte 10.jpeg",
+      "sha256": "15819efb4f2c4eb7babc3a6408255b4a48c9e0ec04b293bb0b1c8507b43773d9",
+      "bytes": 17428
+    },
+    {
+      "id": "R062",
+      "path": "originais/R062.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 11 - Corte 11.jpeg",
+      "sha256": "04090bc98420c9a3678284995ada70931c60793820addb111ed6d1b753d86514",
+      "bytes": 15439
+    },
+    {
+      "id": "R063",
+      "path": "originais/R063.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Feminino/Corte feminino 12 - Corte 12.jpeg",
+      "sha256": "1a806f8232010bd64f1b4322db52d15aa8c883127cf826b52db189c49a294695",
+      "bytes": 18962
+    },
+    {
+      "id": "R064",
+      "path": "originais/R064.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 1 - Bagunçado 1.jpeg",
+      "sha256": "eb3657735e671326d3220912bd3444a77455f583cfde3201e0958e91ffd7f0f1",
+      "bytes": 18982
+    },
+    {
+      "id": "R065",
+      "path": "originais/R065.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 2 - Bagunçado 2.jpeg",
+      "sha256": "5bf2f98ce6764447d3f02aa5963ccdc160679a64bbdb0537615d1e3a078e9947",
+      "bytes": 17574
+    },
+    {
+      "id": "R066",
+      "path": "originais/R066.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 3 - Hi Fade.jpeg",
+      "sha256": "7a378a8ba7eda8be719a108713077d33a68763528cb67cab0207f8e80460c2e2",
+      "bytes": 15616
+    },
+    {
+      "id": "R067",
+      "path": "originais/R067.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 4 - Careca.jpeg",
+      "sha256": "8ae337a43a493cc101f8efb933143276ceec5cd79469b91841473b52bf5d6670",
+      "bytes": 16750
+    },
+    {
+      "id": "R068",
+      "path": "originais/R068.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 5 - Moicano.jpeg",
+      "sha256": "3800e0576a47db0785b1fb1d20ce68fd29bb59527c819c6fc3243d5e7975a1e2",
+      "bytes": 14982
+    },
+    {
+      "id": "R069",
+      "path": "originais/R069.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 6 - Punk Espetado.jpeg",
+      "sha256": "0c9b084e5d976a9f676a7e4d8f2e784ed0013c6feaaf2dab8e15b26d93a42337",
+      "bytes": 19210
+    },
+    {
+      "id": "R070",
+      "path": "originais/R070.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 7 - Razor Part.jpeg",
+      "sha256": "c12df65c6b91a626c1e62459e159b18a4c3452857d56a588c92b748f7a43c112",
+      "bytes": 17692
+    },
+    {
+      "id": "R071",
+      "path": "originais/R071.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 8 - Coque Samurai.jpeg",
+      "sha256": "a81e4af17d92e14883660acf74d3339dfe883fd82f448163872cb8471e2ecba4",
+      "bytes": 17699
+    },
+    {
+      "id": "R072",
+      "path": "originais/R072.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 9 - Black Power.jpeg",
+      "sha256": "b8242cf5bed107688d968df4988b5b3ef5984edcd359694de67daf02c714e6c6",
+      "bytes": 19769
+    },
+    {
+      "id": "R073",
+      "path": "originais/R073.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 10 - Chavoso.jpeg",
+      "sha256": "5c144694961be8868de32aea41a41a16240dc4f918164782a545f46afa99335b",
+      "bytes": 19892
+    },
+    {
+      "id": "R074",
+      "path": "originais/R074.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 11 - De Raul.jpeg",
+      "sha256": "a17f22e18530ac490754312d59d877770ee67be207ab291a02af831bbb140132",
+      "bytes": 17669
+    },
+    {
+      "id": "R075",
+      "path": "originais/R075.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de Corte de cabelo/Tipos cortes/Masculino/Corte masculino 12 - Reflexo de Cria.jpeg",
+      "sha256": "2fc735f1dcaf71b2d23d7afe08ddf8a35611b8d2610f1fdb07d6d39c417cf5b8",
+      "bytes": 20000
+    },
+    {
+      "id": "R076",
+      "path": "originais/R076.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 1 feminino.jpeg",
+      "sha256": "79ba35d0bcaee3b81e30dfbab0bc3b1c5bb29b3c2375df37b9a6ee546d81568b",
+      "bytes": 13957
+    },
+    {
+      "id": "R077",
+      "path": "originais/R077.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 2 feminino.jpeg",
+      "sha256": "9f906f4d0b648af80f012d791e49dd895a182878238e2c542881d05b548228e5",
+      "bytes": 30012
+    },
+    {
+      "id": "R078",
+      "path": "originais/R078.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 3 feminino.jpeg",
+      "sha256": "775052d68eba4bd835d57ca141c80d75d37cd891a0395e6ed4d3c2153a4b795e",
+      "bytes": 29773
+    },
+    {
+      "id": "R079",
+      "path": "originais/R079.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 4 feminino.jpeg",
+      "sha256": "b961fdb9648a31527d3f0730512cc05b9a6f4a70dcef13155c5a3ef441ab4c1e",
+      "bytes": 30897
+    },
+    {
+      "id": "R080",
+      "path": "originais/R080.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/base feminina/base 5 feminino.jpeg",
+      "sha256": "befc656901d4c186e74d2482d11d2c1a998945d7ab6e571a809f9b3e7fecd2a8",
+      "bytes": 29013
+    },
+    {
+      "id": "R081",
+      "path": "originais/R081.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 1.jpeg",
+      "sha256": "531bc85599fba40efee0a7ce3b785e62a6e87f6919b3cd5b8ec8500f1864da81",
+      "bytes": 18886
+    },
+    {
+      "id": "R082",
+      "path": "originais/R082.png",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 2.png",
+      "sha256": "47cbd89924179bd84df2f191b181b44c74e31246e84c95a875e9d93c68abb67e",
+      "bytes": 1119851
+    },
+    {
+      "id": "R083",
+      "path": "originais/R083.png",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 3.png",
+      "sha256": "2affe60384f23eb85bfd3614e9b56390dc17e6b77c4ab0a834bad2e2c79ba340",
+      "bytes": 1144762
+    },
+    {
+      "id": "R084",
+      "path": "originais/R084.png",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 4.png",
+      "sha256": "9f1d0d21a5b3a913edd5dc34ca796f021cba2727f9a9d87a4020158fdea932cb",
+      "bytes": 1160967
+    },
+    {
+      "id": "R085",
+      "path": "originais/R085.png",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 5.png",
+      "sha256": "22c3ccf1824b749c1996daf656fac263a66090e32f4d194964e8aed26282cd44",
+      "bytes": 1123687
+    },
+    {
+      "id": "R086",
+      "path": "originais/R086.png",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/bases masculina/base masculina 6.png",
+      "sha256": "aaf48d0b1934eac359290a5a7719de2de4d93bcdcb7e4b73f381afeee81a33e2",
+      "bytes": 1130562
+    },
+    {
+      "id": "R087",
+      "path": "originais/R087.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/Padrao de mudanca de Rosto.jpeg",
+      "sha256": "8ff71ebe6e8d2c6c7602e52fe703426758abb8e210de0567f2482ea230751cc7",
+      "bytes": 287134
+    },
+    {
+      "id": "R088",
+      "path": "originais/R088.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 1 + cabelo 1.jpeg",
+      "sha256": "2d746c88c9d63a7e76174ae70d9a83dcdfbadec5e61446e6bb77408da49e96fb",
+      "bytes": 37402
+    },
+    {
+      "id": "R089",
+      "path": "originais/R089.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 2 + cabelo 1.jpeg",
+      "sha256": "2501f04f9203dbcf0ac2029c1a67542e7be328c4e99a14658a3fdc1dd6f95006",
+      "bytes": 35839
+    },
+    {
+      "id": "R090",
+      "path": "originais/R090.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 3 + cabelo 1.jpeg",
+      "sha256": "1cbd555d318ec32aa48d9e3cce5afad3fedafc2cd02fd8adc33a9aac03b5c1ae",
+      "bytes": 35458
+    },
+    {
+      "id": "R091",
+      "path": "originais/R091.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 4 + cabelo 1.jpeg",
+      "sha256": "5bc849f6225beb6030a5b55c9e345477d230fa92176a1efe9409ba3e4351ddd3",
+      "bytes": 38475
+    },
+    {
+      "id": "R092",
+      "path": "originais/R092.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo feminino 1/rosto 5 + cabelo 1.jpeg",
+      "sha256": "4949afabba95a7a03a0724a165a863110325f1fc2020ec73d0af405cb29e78e8",
+      "bytes": 35806
+    },
+    {
+      "id": "R093",
+      "path": "originais/R093.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 1 + corte 1.jpeg",
+      "sha256": "1aa0321530c3f4035fa23b86f59b567cf8d4a62d15e8008039a77104247a3070",
+      "bytes": 20059
+    },
+    {
+      "id": "R094",
+      "path": "originais/R094.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 2 + corte 1.jpeg",
+      "sha256": "1b9b93285d575de6d282099f97db3b985407bd5e8d42e01233770372f6e17210",
+      "bytes": 19168
+    },
+    {
+      "id": "R095",
+      "path": "originais/R095.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 3 + corte 1.jpeg",
+      "sha256": "ebc541f194c04e93716b4aa1a4b4828bbca3022dcd2878d20442b84737ccb19f",
+      "bytes": 19934
+    },
+    {
+      "id": "R096",
+      "path": "originais/R096.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 4 + corte 1.jpeg",
+      "sha256": "02029ab80d43041c5c67025ef09957c5b6814489f667bd1fb13ea91460a6b9c0",
+      "bytes": 62229
+    },
+    {
+      "id": "R097",
+      "path": "originais/R097.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 5 + corte 1.jpeg",
+      "sha256": "aae7710515362a6a7f1cbae7916bf9180c877f35987293fee3799ab2746514fd",
+      "bytes": 65911
+    },
+    {
+      "id": "R098",
+      "path": "originais/R098.jpeg",
+      "original_path": "Cabeça & Rosto/Tipo de rosto/rosto  + cabelo masculino 1/base 6 + corte 1.jpeg",
+      "sha256": "ccac65351e49c89048a42e389e69148016f4b3e3f72e85076914718a4981204a",
+      "bytes": 67750
+    },
+    {
+      "id": "R099",
+      "path": "originais/R099.jpeg",
+      "original_path": "Exemplo Geral/FemaleExemple.jpeg",
+      "sha256": "322a788e085fec77e979b1ae0435b82d41f78cd0077ddfd98c985b61b3f81abd",
+      "bytes": 295739
+    },
+    {
+      "id": "R100",
+      "path": "originais/R100.jpeg",
+      "original_path": "Exemplo Geral/MaleExemple.jpeg",
+      "sha256": "6a77475f0d7431a91de6a0046823c044882c2d55bad9dff5334c8320bc1933ae",
+      "bytes": 281684
+    }
+  ]
+}

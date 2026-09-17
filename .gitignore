@@ -1,6 +1,14 @@
 node_modules/
+__pycache__/
 dist/
-artifacts/
+# Entregas e evidências fazem parte do histórico do laboratório.
+artifacts/*
+!artifacts/piloto-feminino-01/
+!artifacts/conjunto-feminino-v1/
+!artifacts/conjunto-feminino-v2/
+!artifacts/personagem-fixtures.glb
+*.blend[0-9]*
+*.log
 .playwright-mcp/
 *.local
 .DS_Store

@@ -122,6 +122,22 @@ button:focus-visible {
   min-height: 0;
 }
 
+.view-actions {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  right: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.catalog-note {
+  color: var(--muted);
+  font-size: 12px;
+  padding: 0 16px;
+}
+
 .viewer {
   position: absolute;
   inset: 0;
